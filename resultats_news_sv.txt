@@ -1,0 +1,954 @@
+- Ledare: Det är okej om många svenskar förlorar jobbet – på ett villkor (Www.dn.se, 2025-07-13) — Artificiell intelligens kommer skaka om arbetsmarknaden. Nu behöver vi förbereda oss inför strukturomvandlingarna.
+  https://www.dn.se/ledare/det-ar-okej-om-manga-svenskar-forlorar-jobbet-pa-ett-villkor/
+- Google släpper ut 51 procent mer koldioxid än 2019 – AI bakom ökningen (Nyteknik.se, 2025-07-01) — Googles koldioxidutsläpp har ökat rejält sedan 2019, mycket på grund av bolagets satsning på artificiell intelligens.
+  https://www.nyteknik.se/tech/google-slapper-ut-51-procent-mer-koldioxid-an-2019-ai-bakom-okningen/4374648
+- AI drev butik – blev sur och gav bort chips gratis (Svenska Dagbladet, 2025-07-02) — AI fick en månad på sig att driva butik. Det slutade med gratisprylar, hot och förlorade pengar – och en identitetskris.
+Med andra ord dröjer det sannolikt innan AI tar ditt jobb.
+  https://www.svd.se/a/vgo7e4/ai-drev-butik-blev-sur-och-gav-bort-chips
+- När Musk söker sanningen levererar Grok Hitler-hyllningar (Nyteknik.se, 2025-07-11) — Elon Musks har i åratal velat skapa artificiell intelligens som ”maximalt söker sanningen”. Efter många om och men har han lyckats ta fram en modell som hyllar Adolf Hitler. Det finns således lite att jobba på, skriver Ny Tekniks Peter Ottsjö.
+  https://www.nyteknik.se/kronikor/nar-musk-soker-sanningen-levererar-grok-hitler-hyllningar/4376978
+- ”Akademin bör samarbeta mer med Kina” (Svenska Dagbladet, 2025-06-24) — DEBATT. Med hållbar utveckling och konkurrenskraft i fokus behöver Sverige utveckla sina akademiska samarbeten med Kina. Det kommer att gå utan att kompromissa med svenska värderingar eller säkerhets­intressen, skriver fyra rektorer.
+  https://www.svd.se/a/PplQER/rektorer-akademin-bor-samarbeta-mer-med-kina
+- Max Hjelm: Framför skärmarna är vi dopamindopade junkies – men nu börjar rehabiliteringen (Www.dn.se, 2025-07-20) — Vi verkar inte vara så fjättrade framför skärmarna som vi trott. Svenskarnas kulturvanor berättar något fint om människan, skriver Max Hjelm.
+  https://www.dn.se/ledare/max-hjelm-framfor-skarmarna-ar-vi-dopamindopade-junkies-men-nu-borjar-rehabiliteringen/
+- AI gör oss sämre på att tänka själva (Sweclockers.com, 2025-06-27) — Flera nya studier pekar på att flitigt användande av AI-verktyg som ChatGPT kan försämra vår kognitiva förmåga.
+  https://www.sweclockers.com/nyhet/41382-ai-gor-oss-samre-pa-att-tanka-sjalva
+- AI drev butik – blev sur och gav bort chips (Aftonbladet.se, 2025-07-02) — AI fick en månad på sig att driva butik. Det slutade med gratisprylar, hot och förlorade pengar – och en identitetskris. Med andra ord dröjer det sannolikt inna
+  https://www.aftonbladet.se/nyheter/a/KMJmno/ai-drev-butik-blev-sur-och-gav-bort-chips
+- AI-band var just ett AI-band (Feber.se, 2025-07-07) — Men spelar det någon roll?
+
+
+
+
+
+
+Det har varit en del snack om "bandet" The Velvet Sundown på senare tid. Nu har bandet själva bekräftat vad de flesta nog anade, att hela saken var skapat med AI. 
+
+Bandet skriver på sin Spotify-sida att man är ett "syntetiskt…
+  https://feber.se/internet/ai-band-var-just-ett-ai-band/481356/
+- Meta drar igång ny AI-division (Feber.se, 2025-07-01) — Meta Superintelligence Labs ska utveckla AGI
+
+
+
+
+
+
+Förra månaden började det ryktas att Meta hade en ny AI-satsning på gång och i ett internt memo har Metas grundare Mark Zuckerberg nu avslöjat lite mer om detta. Den nya satsningen är en division på Meta som …
+  https://feber.se/internet/meta-drar-igang-ny-ai-division/481172/
+- Efter kritikstorm biter Apple i det sura äpplet – tonar ner omgörning (Nyteknik.se, 2025-07-09) — Bara veckor efter lanseringen backar Apple från sitt inte så glasklara gränssnitt. Efter svag Vision Pro-försäljning och ai-floppar är designreträtten det senaste bakslaget för Iphone-jätten.
+  https://www.nyteknik.se/tech/efter-kritikstorm-biter-apple-i-det-sura-applet-tonar-ner-omgorning/4376602
+- AI drev butik – blev sur och gav bort chips (Expressen.se, 2025-07-02) — AI fick en månad på sig att driva butik. Det slutade med gratisprylar, hot och förlorade pengar – och en identitetskris. Med andra ord dröjer det sannolikt innan AI tar ditt jobb.
+  https://www.expressen.se/nyheter/sverige/ai-drev-butik-blev-sur-och-gav-bort-chips/
+- Mark Zuckerbergs nya AI-strategi – datacenter i tält (Nyteknik.se, 2025-07-15) — Mark Zuckerbergs Meta ska bygga datacenter stora som Manhattan. Men just nu satsar företaget på ai-utveckling i tält.
+  https://www.nyteknik.se/tech/mark-zuckerbergs-nya-ai-strategi-datacenter-i-talt/4377455
+- Briljant och förlösande ”Fantasio” på Läckö Slott (Www.dn.se, 2025-07-12) — Operakomedin ”Fantasio” av Jacques Offenbach spelas just nu på Läckö slott. Såväl huvudrollsinnehavarna som ensemblen briljerar och bjuder på ljuvligt förlösande schvung i musiken, skriver Martin Nyström.
+  https://www.dn.se/kultur/briljant-och-forlosande-fantasio-pa-lacko-slott/
+- Man har byggt över 300 fantasifulla fordon (Feber.se, 2025-06-24) — Kolla in några av dem här
+
+
+
+
+
+
+
+
+
+
+Här är ett inslag från South China Morning Post där de kollar in några av de över 300 hemmabyggda fordon som kinesiske Gu Yupeng konstruerat i sin verkstad.
+
+Bland fordonen finns bland annat flera rullande sängar som kan ta…
+  https://feber.se/fordon/man-har-byggt-over-300-fantasifulla-fordon/480948/
+- Runway släpper tjänsten Act Two för att skapa filmklipp (Feber.se, 2025-07-16) — AI-tjänst som använder motion capture
+
+
+
+
+
+
+
+
+
+
+Runway, det amerikanska AI-företaget som specialiserat sig på att skapa generativa AI-lösningar för filmskapande, har visat upp en ny tjänst för att skapa filmklipp med hjälp av motion capture.
+
+Det hela kallas …
+  https://feber.se/internet/runway-slapper-tjansten-act-two-for-att-skapa-filmklipp/481639/
+- Meta norpar AI-chef från Apple (Feber.se, 2025-07-08) — Ruoming Pang ansluter sig till Metas division för "superintelligens"
+
+
+
+
+
+
+Meta fortsätter sin aggressiva rekrytering till sin nya AI-division och nu rapporteras det att Apple-chefen Ruoming Pang kommer att börja arbeta där. 
+
+Ruoming Pang har varit ansvarig …
+  https://feber.se/internet/meta-norpar-ai-chef-fran-apple/481405/
+- Meta ska bygga datacenter för hundratals miljarder dollar (Feber.se, 2025-07-15) — Kommer att kräva mycket energi för att driftas
+
+
+
+
+
+
+Metas grundare Mark Zuckerberg uppger att företaget planerar att investera hundratals miljarder dollar för att bygga enorma datacenter som ska driva deras satsning på "superintelligens", det vill säga AI me…
+  https://feber.se/internet/meta-ska-bygga-datacenter-for-hundratals-miljarder-dollar/481589/
+- DN Debatt. ”EU måste tänka om kring förbudet mot militär forskning” (Www.dn.se, 2025-07-06) — DN DEBATT. Nuvarande forskningspolitik inom fredsprojektet EU utesluter medel för teknik som kan användas både civilt och militärt. Men ramprogrammet togs fram i tid före Ukrainakriget och AI-utvecklingen. Dagens teknik är gränsöverskridande. Därför föreslår …
+  https://www.dn.se/debatt/eu-maste-tanka-om-kring-forbudet-mot-militar-forskning/
+- DN Debatt. ”Offentlig sektor måste våga hoppa ner i sandlådan med AI” (Www.dn.se, 2025-07-02) — DN DEBATT. AI kan effektivisera myndigheternas arbete och spara miljarder, men felanvändning riskerar att förstärka orättvisor och underminera förtroendet. Därför krävs en nationell testmiljö – en så kallad sandlåda – för myndigheter, kommuner och andra där A…
+  https://www.dn.se/debatt/offentlig-sektor-maste-vaga-hoppa-ner-i-sandladan-med-ai/
+- Nu rullar Teslas robottaxi på gatorna i Austin (Www.dn.se, 2025-06-26) — Med en övervakare på plats i framsätet har Tesla inlett sin verksamhet med självkörande taxibilar i Austin, Texas. Det är det första steget i en lansering som enligt företagets vd Elon Musk kommer att göra självkörande taxibilar till ett vanligt inslag på gat…
+  https://www.dn.se/motor/nu-rullar-teslas-robottaxi-pa-gatorna-i-austin/
+- YouTube inför nya regler mot massproducerat AI-innehåll (Feber.se, 2025-07-11) — Blir svårare att tjäna pengar på AI slop
+
+
+
+
+
+
+
+
+
+
+Våra vänner borta på Sweclockers rapporterar om att YouTube kommer att införa nya riktlinjer för att motverka massproducerat och oautentiskt innehåll, särskilt det som skapas med hjälp av artificiell intellig…
+  https://feber.se/internet/youtube-infor-nya-regler-mot-massproducerat-ai-innehall/481508/
+- Amerikanska försvaret kan komma att använda Grok (Feber.se, 2025-07-16) — xAI och andra AI-företag ska utveckla AI åt militären
+
+
+
+
+
+
+
+
+
+
+Det amerikanska försvarsdepartementets avdelning Chief Digital and Artificial Intelligence Office (CDAO) har skrivit kontrakt med AI-företagen Anthropic, Google, OpenAI och xAI som innebär att fö…
+  https://feber.se/samhalle/amerikanska-forsvaret-kan-komma-att-anvanda-grok/481636/
+- Netflix första serie med AI-effekter: ”Billigare” (Aftonbladet.se, 2025-07-18) — Netflix har för första gången använt visuella effekter skapade av AI, artificiell intelligens, i en av sina produktioner.
+  https://www.aftonbladet.se/nojesbladet/a/qP99ww/forsta-netflix-serien-med-ai-effekter-billigare
+- Karim Jebari: Minns ni millennieskiftet? Snart är det 2050 (Www.dn.se, 2025-07-08) — Ska vi förbereda oss på en omvälvande framtid? Utan en digital revolution är det troligare att mycket förblir sig likt. Min gissning är att ni som får uppleva år 2050 kommer att känna igen köken, fabrikerna och affärerna, skriver Karim Jebari.
+  https://www.dn.se/kultur/karim-jebari-minns-ni-millennieskiftet-snart-ar-det-2050/
+- Digitaliseringsrådet: Det här är viktigast för nya myndigheten (Nyteknik.se, 2025-07-07) — DEBATT. Sverige behöver en digitaliseringsmyndighet med bredare mandat och tydligt uppdrag att driva på den digitala utvecklingen, skriver regeringens digitaliseringsråd.
+  https://www.nyteknik.se/debatt/digitaliseringsradet-det-har-ar-viktigast-for-nya-myndigheten/4375990
+- Stenergard: Upp till bevis för Trump (Aftonbladet.se, 2025-06-24) — Trots att USA:s president ringer stup i kvarten, fortsätter Vladimir Putin sitt krig. Nu är det upp till bevis för Donald Trump, enligt utrikesminister Maria Ma
+  https://www.aftonbladet.se/nyheter/a/1MaBxJ/stenergard-upp-till-bevis-for-trump
+- Så här lurar en AI-bot politiker i Kanada: ”Väldigt effektfullt” (YLE News, 2025-06-25) — En avancerad desinformations­kampanj har överraskat lokala beslutsfattare i Kanada.
+  https://yle.fi/a/7-10079221
+- Monterade rördelar på golvet som barn – nu planerar han ta över familjeföretaget (YLE News, 2025-06-28) — Jonas Lahtivuori tror att behovet av VVS-montörer kvarstår, även om AI får en allt större roll i samhället.
+  https://yle.fi/a/7-10080234
+- Meta köper upp AI-experter från konkurrenter (YLE News, 2025-06-28) — Mark Zuckerberg vill ha de allra bästa specialisterna på artificiell intelligens i sitt stall, det visar de senaste veckornas nyförvärv.
+  https://yle.fi/a/7-10080448
+- AI är Emma Storbackas närmaste kollega – hon visar hur hon blivit 30 procent ... (YLE News, 2025-07-02) — AI-tekniken utvecklas i så snabb takt att organisationer och människor har svårt att hänga med. Emma Storbacka ser hur de som anammar de nya teknologierna får ett enormt försprång.
+  https://yle.fi/a/7-10079566
+- Jony Ives första AI-sak kommer först nästa år (Feber.se, 2025-06-24) — Kommer inte bli en wearable
+
+
+
+
+
+
+
+
+
+
+
+
+OpenAI och Jony Ives bolag IO visade för några veckor sedan att man älskade varandra, då OpenAI köpte IO. Igår berättade vi att OpenAI tagit bort alla referenser till IO, men inte för att man inte längre älskade varandr…
+  https://feber.se/pryl/jony-ives-forsta-ai-sak-kommer-forst-nasta-ar/480956/
+- Marshall Middleton II får bättre batteritid och djupare bas (Feber.se, 2025-07-02) — Finns att köpa nu i två färger
+
+
+
+
+
+
+Marshall rullar nu ut den andra versionen av sin kompakta Middleton II. Högtalaren utlovar en batteritid på över 30 timmar och kan även fungera som en powerbank för att ladda din telefon. Ljudet ska ha blivit bättre med dj…
+  https://feber.se/pryl/marshall-middleton-ii-far-battre-batteritid-och-djupare-bas/481219/
+- Coop stoppar självcanning med mobilen (Feber.se, 2025-07-02) — På grund av för mycket stölder
+
+
+
+
+
+
+I Coops butiker kan man scanna sina varor med telefonen med hjälp av betalsättet Scan & Pay. Men nu väljer Coop Nord att stoppa denna möjlighet då det har varit på tok för mycket stölder kopplat till scanningen. Totalt kom…
+  https://feber.se/samhalle/coop-stoppar-sjalvcanning-med-mobilen/481229/
+- Här har vi smaken på årets Juleskum (Tjock.se, 2025-07-02) — 175 dagar kvar till julafton
+
+
+
+
+
+
+Det börjar bli sommar över landet och ni vet ju vad det innebär? Att det är dags att boka upp julbord, kolla över julpyntet på vinden och planera årets julklappar. Det ska ju även moffas en väldans massa snarr när denna peri…
+  https://tjock.se/strupen/har-har-vi-smaken-pa-arets-juleskum/481225/
+- Håll koll på badplatser med Doppkartan (Feber.se, 2025-07-02) — Hitta bad där temperaturen passar dig
+
+
+
+
+
+
+Doppkartan är en ny tjänst som hjälper besökarna att utforska badplatser i deras närområde. Tjänsten är utvecklad av Feber-läsaren Andreas och baseras på öppen data från Havs- och vattenmyndigheten, karttjänsten Ope…
+  https://feber.se/internet/hall-koll-pa-badplatser-med-doppkartan/481216/
+- Nintendo avslöjar vilka som utvecklat Donkey Kong Bananza (Feber.se, 2025-07-02) — Samma gäng som gjorde Super Mario Odyssey
+
+
+
+
+
+
+Nintendo ser ut att ha gjort ett undantag från sin traditione att inte avslöja vilka som utvecklat ett spel innan detta släpps. Vanligtvis brukar man få vänta tills ett Nintendo-spel släppts innan det går att ko…
+  https://feber.se/spel/nintendo-avslojar-vilka-som-utvecklat-donkey-kong-bananza/481218/
+- Nu blir det smidigare att dela ett hushåll med Google Home (Feber.se, 2025-07-02) — Får nya användarroller
+
+
+
+
+
+
+Google Homes senaste uppdatering gör det enklare att hantera vem i hushållet som har kontroll över ditt smarta hem. Funktionen introducerar två nya användarroller: administratör och medlem, där en person med administratörsstatus f…
+  https://feber.se/pryl/nu-blir-det-smidigare-att-dela-ett-hushall-med-google-home/481214/
+- Apple har börjat spela in Neuromancer (Feber.se, 2025-07-02) — Tv-serien som baseras på William Gibsons klassiker
+
+
+
+
+
+
+
+
+
+
+Igår var det 41 år sedan William Gibsons hyllade cyberpunk-roman Neuromancer släpptes. I samband med det meddelade Apple att man nu dragit igång inspelningen av tv-serien som baseras på boken.
+
+I tv…
+  https://feber.se/film/apple-har-borjat-spela-in-neuromancer/481217/
+- Northvolt-konkursen uppe i över 80 miljarder (Feber.se, 2025-06-24) — Låntagare lär inte få sina pengar
+
+
+
+
+
+
+Nu har ännu ett steg tagits i Northvolt-konkursen då konkursförvaltaren skickade konkursbouppteckningarna till tingsrätten på måndagskvällen. Och skulderna har ökat. 
+
+När bolaget ansökte om rekonstruktion i USA i hösta…
+  https://feber.se/samhalle/northvolt-konkursen-uppe-i-over-80-miljarder/480964/
+- Motorvägen mellan Gävle och Helsingborg är klar (Feber.se, 2025-06-24) — E4 genom Ljungby nu invigd
+
+
+
+
+
+
+Nu är motorvägen mellan Kånna och Toftanäs färdigställd vilket innebär att du nu kan åka E4:an hela vägen (72 mil) mellan Gävle och Helsingborg. Detta ger en klar förbättring för trafiksäkerheten, tillgängligheten och framtide…
+  https://feber.se/bil/motorvagen-mellan-gavle-och-helsingborg-ar-klar/480960/
+- Clownfiskar skvallrar om iPhone 17 Air (Feber.se, 2025-06-25) — Kommer i höst?
+
+
+
+
+
+
+Samsung har ju redan sin Galaxy S25 Edge och då kan ju inte Apple vara sämre. Att det kommer en Air-version av iPhone i höst börjar bli mer och mer tydligt, men nu har det kommit ytterligare ett skvaller – från två clownfiskar. 
+
+Det är n…
+  https://feber.se/mobil/clownfiskar-skvallrar-om-iphone-17-air/480989/
+- Vad gillar du att grilla? (Feber.se, 2025-06-24) — Dagens fråga
+
+
+
+
+
+
+Vi fick ett mail med en ny undersökning där man kollade vad svenskarna lägger på grillen i sommar. Den visade att 85 procent av de tillfrågade allra helst vill att det ska vara svenska råvaror och det som grillas mest är då nötkött, kycklin…
+  https://feber.se/vad-gillar-du-att-grilla/480955/
+- Det här är en BlackBerry för 2025 (Feber.se, 2025-06-25) — Titan 2 har ett fysiskt tangentbord
+
+
+
+
+
+
+
+
+
+
+
+
+Vill du åka lite tillbaka i tiden men ändå ha en mjukvara från i år? Då kanske den här bjässen till telefon kan vara något. Den heter Titan 2 och kommer från Unihertz. Och kommer med läderväska som du sätter i s…
+  https://feber.se/mobil/det-har-ar-en-blackberry-for-2025/480986/
+- Metas framtida smarta glasögon kontrolleras med ett armband (Feber.se, 2025-07-02) — Ska heta Meta Celeste enligt ny läcka
+
+
+
+
+
+
+Meta verkar vara på gång att ta fram smarta glasögon som baseras på konceptet Orion som visades upp i höstas. Det har tidigare ryktats om att Meta hade smarta AR-glasögon med inbyggd skärm på gång som gick under nam…
+  https://feber.se/pryl/metas-framtida-smarta-glasogon-kontrolleras-med-ett-armband/481223/
+- Kinesiska elbilar kan äventyra Fords framtid (Feber.se, 2025-07-02) — "If we lose this, we do not have a future Ford"
+
+
+
+
+
+
+
+
+
+
+Fords vd Jim Farley har tidigare uttalat sig kring hotet från Kina med alla elbilar de spottar ur sig till höger och vänster, och att Ford själva har svårt att konkurrera på denna fronten. Nyligen medv…
+  https://feber.se/bil/kinesiska-elbilar-kan-aventyra-fords-framtid/481221/
+- Det här är H&Ms AI-modeller (Feber.se, 2025-07-02) — Börjar användas nu
+
+
+
+
+
+
+
+
+
+
+
+
+H&M har ett intressant projekt på gång där man vill skapa en massa bilder med hjälp av AI. Men istället för att skapa en ny persona som bara finns i AI-världen har man gjort digitala tvillingar av riktiga modeller, som får betal…
+  https://feber.se/samhalle/det-har-ar-hms-ai-modeller/481239/
+- Matpriserna sjönk i juni (Feber.se, 2025-07-03) — Största minskningen på två år
+
+
+
+
+
+
+Matpriserna i Sverige vände ner i juni och sjönk med 0,2 procent jämfört med maj, vilket är den största minskningen under en månad sedan april 2023, rapporterar DN. Enligt en sammanställning från Matpriskollen drevs nedgång…
+  https://feber.se/samhalle/matpriserna-sjonk-i-juni/481260/
+- Corridor Crew sätter kamera i ett bowlingklot (Feber.se, 2025-06-24) — Funkade! 
+
+
+
+
+
+
+
+
+
+
+Man vill ju sätta en kamera i det mesta. Men hur sätter man en i ett bowlingklot? Att bara sätta in en kamera och se nöjd ut fungerar inte, då snurrar ju kameran runt med bollen och det kan kanske bli coolt på ett sätt, men man vill ju att…
+  https://feber.se/vetenskap/corridor-crew-satter-kamera-i-ett-bowlingklot/480974/
+- Riot Games stänger ner Hypixel Studios (Feber.se, 2025-06-24) — Och säger hejdå till Minecraft-klonen Hytale
+
+
+
+
+
+
+
+
+
+
+
+
+Spelbranschens senaste års blodbad ser inte ut att vara över. Nu meddelar Hypixel Studios att man kommer att stänga ner efter att man inte kunnat göra klart sitt spel Hytale som man önskat. Jag antar at…
+  https://feber.se/spel/riot-games-stanger-ner-hypixel-studios/480975/
+- Tyska biljättar samarbetar om öppen källkod (Feber.se, 2025-06-25) — Kod först
+
+
+
+
+
+
+Mjukvara har blivit väldigt viktigt i bilvärlden och det kodas hej vilt hos biltillverkarna runt om i världen, med olika nivåer på hur bra man lyckas. Nu tar den tyska bilindustrin ett nytt grepp för att slippa koda saker om och om igen på oli…
+  https://feber.se/bil/tyska-biljattar-samarbetar-om-oppen-kallkod/480991/
+- Google har lärt robotar att fungera offline (Feber.se, 2025-06-25) — Har AI-modellen Gemini Robotics On-Device inbyggd
+
+
+
+
+
+
+
+
+
+
+
+
+Googles AI-division Google DeepMind har nu lyckats integrera en AI-modell direkt i robotar så att denna går att köra utan att koppla upp sig mot molnet, något som oftast varit ett krav för att robo…
+  https://feber.se/pryl/google-har-lart-robotar-att-fungera-offline/480990/
+- Drag x Drive kommer till Switch 2 i augusti (Feber.se, 2025-06-25) — Rullstolsbasketspel som styrs med musfunktion
+
+
+
+
+
+
+
+
+
+
+
+
+Nintendo avslöjade igår att det kommande Switch 2-spelet Drag x Drive kommer att släppas den 14 augusti. 
+
+I spelet kontrollerar spelaren en rullstolsbasketspelare med hjälp av musfunktionaliteten i Jo…
+  https://feber.se/spel/drag-x-drive-kommer-till-switch-2-i-augusti/480987/
+- Sonic the Hedgehog kommer till Magic: The Gathering (Feber.se, 2025-07-02) — Nya kort med Sonic och hans vänner
+
+
+
+
+
+
+Hasbro och Sega har inlett ett samarbete som innebär att Sonic och andra karaktärer från Sega Sonic the Hedgehog-universum snart kommer som spelkort i kortspelet Magic: the Gathering (MTG). 
+
+Det handlar om sju karaktä…
+  https://feber.se/spel/sonic-the-hedgehog-kommer-till-magic-the-gathering/481243/
+- General Lee har hoppat igen - genom en fontän (Feber.se, 2025-07-02) — Landningen blev dock lite stökig
+
+
+
+
+
+
+
+
+
+
+General Lee kallas den Dodge Charger som kördes av kusinerna Bo och Luke Duke i TV-serien The Dukes of Hazzard. Nyligen genomförde man ett stunt med samma tema som serien i staden Somerset i Kentucky och hoppade då m…
+  https://feber.se/bil/general-lee-har-hoppat-igen---genom-en-fontan/481224/
+- Ny tjänst övervakar skog med satelliter och AI (Feber.se, 2025-06-24) — Håll koll på distans
+
+
+
+
+
+
+Treebula hette tidigare Virkesbörsen. Då fanns man framförallt till för att skogsägare skulle kunna sälja sitt virke enkelt. Nu har man breddat sig och erbjuder andra typer av tjänster också, men alla riktade till skogsägare. 
+
+Nu l…
+  https://feber.se/internet/ny-tjanst-overvakar-skog-med-satelliter-och-ai/480962/
+- POCO P7 kommer till Sverige (Feber.se, 2025-06-24) — Med batteri på 6500 mAh
+
+
+
+
+
+
+
+
+
+
+
+
+POCO har precis lanserat en mellanklasslur som både ser bra ut och känns vettig i specifikationerna. Om du inte är superkinkig med kamerorna så kanske denna är värd en titt faktiskt. 
+
+Modellen heter POCO P7 och det som sti…
+  https://feber.se/mobil/poco-p7-kommer-till-sverige/480976/
+- Trump är rejält lack (Feber.se, 2025-06-24) — På både Iran och Israel
+
+
+
+
+
+
+
+
+
+
+I morse fick vi äntligen en vapenvila mellan Iran och Israel, en vapenvila som bröts illa kvickt. Om världen blev förvånad över att den bröts eller inte får någon annan avgöra, men Donald Trump verkar ha blivit rejält trött p…
+  https://feber.se/samhalle/trump-ar-rejalt-lack/480973/
+- Telefonen där du kan byta batteriet själv (Feber.se, 2025-06-25) — Här är Fairphone 6
+
+
+
+
+
+
+Fairphone har varit igång ett bra tag nu. Det nederländska företaget släppte sin första telefon i december 2013 med målet att göra en smartphone som är mer hållbar och etiskt producerad. Sedan dess har företaget släppt fem mobiler til…
+  https://feber.se/mobil/telefonen-dar-du-kan-byta-batteriet-sjalv/480900/
+- VW sänker priset på ID.7 Tourer med 65.000 kronor (Feber.se, 2025-07-03) — Nu under 600.000 kronor
+
+
+
+
+
+
+Volkswagen har en hit med sin ID.7 Tourer som säljer riktigt bra. Inte tillräckligt bra verkar de dock tycka, för nu sänker man priset på instegsmodellen Pro med hela 65.000 kronor. 
+
+Jämför alla ID.7 Tourer på Automatos
+
+Det bet…
+  https://feber.se/bil/vw-sanker-priset-pa-id7-tourer-med-65000-kronor/481254/
+- Honors nya vikbara lur är riktigt tunn (Feber.se, 2025-07-02) — För tunn?
+
+
+
+
+
+
+Honors senaste vikbara telefon, Magic V5, ska enligt företaget själva vara "den tunnaste i världen". Den titeln behöver dock lite förklaring.
+
+I hopvikt läge mäter den vita versionen av telefonen 8,8 mm, vilket är marginellt tunnare än konkurr…
+  https://feber.se/mobil/honors-nya-vikbara-lur-ar-riktigt-tunn/481236/
+- Red Dead Online får en ny uppdatering (Feber.se, 2025-07-02) — Fyra nya uppdrag i Strange Tales Of The West
+
+
+
+
+
+
+
+
+
+
+
+
+Rockstar släpper nu en uppdatering till Red Dead Online, multiplayertillägget till Red Dead Redemption 2 som lanserades 2019. 
+
+Uppdateringen, som har fått namnet "Strange Tales Of The West Vol. 1", inn…
+  https://feber.se/spel/red-dead-online-far-en-ny-uppdatering/481233/
+- Google Keep försvinner från Apple Watch (Feber.se, 2025-07-02) — Dagar efter Google Kalender kom till watchOS
+
+
+
+
+
+
+Google ger och Google tar. Nu har företaget tagit bort stödet för sin anteckningsapp, Google Keep, på Apple Watch. I en uppdatering som släpptes i måndags togs stödet för watchOS bort, vilket innebär att Goog…
+  https://feber.se/mobil/google-keep-forsvinner-fran-apple-watch/481222/
+- Tre nya versioner av Porsche 911 med fyrhjulsdrift (Feber.se, 2025-07-02) — Nu finns det sex olika att välja mellan
+
+
+
+
+
+
+Visst känns det som att det behövs några fler versioner av Porsche modell 911? Det finns väl typ bara 30 som det är nu så några fler går såklart att trycka ut. Denna runda handlar det om tre nya versioner av 911 C…
+  https://feber.se/bil/tre-nya-versioner-av-porsche-911-med-fyrhjulsdrift/481235/
+- Wreckfest 2 får lite nya grejer (Feber.se, 2025-07-02) — Nu kan du köra folkrace med en husbil
+
+
+
+
+
+
+
+
+
+
+Finska Bugbear Entertainment har släppt en uppdatering till sitt folkrace-spel Wreckfest 2 med lite nya fordon som är redo att demoleras på racingbanan. 
+
+Det kommer bland annat bli möjligt att köra med en husbi…
+  https://feber.se/spel/wreckfest-2-far-lite-nya-grejer/481246/
+- Vad orsakar autoimmuna sjukdomar? (Feber.se, 2025-07-02) — Kurzgesagt förklarar
+
+
+
+
+
+
+
+
+
+
+En autoimmun sjukdom uppstår när kroppens eget immunförsvar, som är utformat för att skydda oss mot främmande inkräktare som bakterier och virus, begår ett misstag. Istället för att bara attackera hot utifrån börjar det felaktig…
+  https://feber.se/video/vad-orsakar-autoimmuna-sjukdomar/481213/
+- Älgen rödlistas i Sverige (Feber.se, 2025-07-03) — Minskat med nästan en fjärdedel på tio år
+
+
+
+
+
+
+Älgen har nu officiellt hamnat på SLU:s nya preliminära lista över rödlistade arter i Sverige. Trots ökade stammar i norra delar av landet har den totala populationen minskat med upp till 25 procent det senaste …
+  https://feber.se/vetenskap/algen-rodlistas-i-sverige/481252/
+- DJI lanserar feta powerbanken Power 2000 (Feber.se, 2025-07-03) — Portabelt batteri för hemmet eller campingtrippen
+
+
+
+
+
+
+
+
+
+
+
+
+DJI har lanserat en efterföljare till sin batterlilösning Power 1000 som har ännu högre kapacitet än sin föregångare. Den nya powerbanken kallas Power 2000 och skulle kunna användas som till exempe…
+  https://feber.se/pryl/dji-lanserar-feta-powerbanken-power-2000/481256/
+- Mobiloperatören Hallon stäms av KO (Feber.se, 2025-07-03) — På grund av dold telefonsupport
+
+
+
+
+
+
+Mobiloperatören Hallon har stämts av Konsumentombudsmannen (KO) eftersom de inte hade ett tillräckligt synligt telefonnummer till sin kundtjänst. Istället förlitade de sig på att kunderna skulle prata med en chattbot när …
+  https://feber.se/mobil/mobiloperatoren-hallon-stams-av-ko/481253/
+- Färre väljer matkassar i plast (Feber.se, 2025-07-02) — Men den totala användningen av plastpåsar ökar
+
+
+
+
+
+
+Användningen av vanliga plastbärkassar från matbutiker har nått en ny rekordlåg nivå i Sverige. Enligt färska siffror från Naturvårdsverket använde varje person i genomsnitt endast 13 plastpåsar förra året,…
+  https://feber.se/samhalle/farre-valjer-matkassar-i-plast/481231/
+- Motorcykel- och mopedstölderna minskar kraftigt (Feber.se, 2025-07-02) — Gött
+
+
+
+
+
+
+En ny sammanställning från försäkringsbolaget Dina Försäkringar baserad på siffror från Brå säger att stölderna av motorcyklar och mopeder kraftigt har minskat. Förra året anmäldes 3420 stölder av mopeder vilket är en nedgång med 21 procent om man …
+  https://feber.se/fordon/motorcykel--och-mopedstolderna-minskar-kraftigt/481212/
+- Första postern för Christopher Nolans nästa film (Feber.se, 2025-07-02) — En teaser har också läckt
+
+
+
+
+
+
+Vi har nu inte bara fått vår första poster från Christopher Nolans kommande film, det har också läckt ut en första teaser-trailer för filmen med titeln The Odyssey. Trailern visas just nu på amerikanska biografer i samband med …
+  https://feber.se/film/forsta-postern-for-christopher-nolans-nasta-film/481244/
+- Flygbolaget Qantas hackat (Feber.se, 2025-07-02) — Personuppgifter för 6 miljoner passagerare stulna
+
+
+
+
+
+
+Det australiska flygbolaget Qantas meddelade idag att de har drabbats av en stor dataläcka som läckt ut personliga uppgifter för minst sex miljoner passagerare. Enligt flygbolaget skedde attacken den 30 …
+  https://feber.se/samhalle/flygbolaget-qantas-hackat/481240/
+- Volvo Construction Equipment köper Swecon (Feber.se, 2025-06-24) — För sju miljarder kronor
+
+
+
+
+
+
+Nu har Volvo Construction Equipment (Volvo CE) köpt Swecons verksamheter i Sverige, Tyskland och Baltikum av Lantmännen. Köpesumman blev sju miljarder kronor och affären väntas slutföras under andra halvåret 2025. Köpet innefatt…
+  https://feber.se/fordon/volvo-construction-equipment-koper-swecon/480961/
+- BMW lanserar Legacy Edition av 540i (Feber.se, 2025-06-24) — Men det var bättre förr
+
+
+
+
+
+
+
+
+
+
+
+
+BMW 540i. Vilken kärra alltså. Raka och rena odödliga linjer. Kraftig V8:a under huven men ett diskret yttre för det är ju ingen M5, utan bara en sleeper som svarar bra när man vill men inte behöver skryta om det. Skulle gä…
+  https://feber.se/bil/bmw-lanserar-legacy-edition-av-540i/480947/
+- Då visar Samsung upp nya vikbara telefoner (Feber.se, 2025-06-24) — Galaxy Unpacked den 9 juli
+
+
+
+
+
+
+
+
+
+
+Det var väl redan inofficiellt bekräftat, men nu är det officiellt. Datumet för nästa Unpacked från Samsung är satt till den 9 juli. 
+
+Ny hårdvara kommer att komma och fokus är vikbara saker. Galaxy Z Fold 7 kommer att få …
+  https://feber.se/mobil/da-visar-samsung-upp-nya-vikbara-telefoner/480959/
+- Eufys nya är mer än bara robotdammsugare (Feber.se, 2025-06-25) — Kommer med djuprengörare
+
+
+
+
+
+
+
+
+
+
+
+
+Eufy släpper nu två nya robotdammsugare där den ena har en rätt unik funktion. Modellerna heter Omni E25 och Omni E28 och i sina basfunktioner är de båda rätt lika varandra. 
+
+De suger med 20.000 Pa och har ett nytt moppsy…
+  https://feber.se/pryl/eufys-nya-ar-mer-an-bara-robotdammsugare/480982/
+- Nya Jeep Cherokee visar baken (Feber.se, 2025-06-25) — Kantig
+
+
+
+
+
+
+
+
+
+
+
+
+Jeep fortsätter att smygvisa nya Cherokee innan premiären som sker i höst. Tidigare har vi fått se den nya nosen som är klassiskt kantig, nu är det dags att visa upp baken och samma tema gäller även där. Kisar man ordentligt med ögonen kans…
+  https://feber.se/bil/nya-jeep-cherokee-visar-baken/480992/
+- OptiBarrier håller koll på hot under vatten med hjälp av ljus (Feber.se, 2025-06-25) — Kanske kan skydda havskablar från sabotage i framtiden
+
+
+
+
+
+
+
+
+
+
+
+
+Det nederländska företaget Optics11 har utvecklat något som man kallar för OptiBarrier, en anläggning som använder sig av ett optiskt system som "lyssnar" under vattnet med hjälp av ljus. 
+
+Re…
+  https://feber.se/samhalle/optibarrier-haller-koll-pa-hot-under-vatten-med-hjalp-av-ljus/480993/
+- Fåret Frank är tillbaka (Feber.se, 2025-06-25) — Retroskönt eller idéfattigt?
+
+
+
+
+
+
+Tele2 körde hårt på fåret Frank runt 2010. Fåret dök upp första gången 2008 och försvann för nio år sedan, men är nu tillbaka. Precis som förra gången är det reklambyrån Forsman Bodenfors som står bakom kampanjen. 
+
+– På en …
+  https://feber.se/mobil/faret-frank-ar-tillbaka/480994/
+- Nu är nya Mitsubishi Grandis presenterad (Feber.se, 2025-07-02) — Ytterligare en kompakt crossover på marknaden
+
+
+
+
+
+
+
+
+
+
+
+
+Om du känner att du inte vill att det ska sitta ett Renault-märke fram på din bil men ändå gillar deras modell Symbioz kan du istället köpa nya Mitsubishi Grandis. Det är nämligen en Symbioz med annan …
+  https://feber.se/bil/nu-ar-nya-mitsubishi-grandis-presenterad/481211/
+- X börjar använda AI för att skriva community notes (Feber.se, 2025-07-02) — Bottar tas in för faktakontroll
+
+
+
+
+
+
+Sociala medie-tjänsten X drar nu igång ett nytt pilotprogram som man kallar för "AI Note Writers" där användare kan utveckla AI-bottar som kan faktakontrollera och lägga in så kallade "community notes" kopplade till inläg…
+  https://feber.se/internet/x-borjar-anvanda-ai-for-att-skriva-community-notes/481241/
+- Har du badat i Sverige ännu? (Feber.se, 2025-07-02) — Dagens sommarfråga
+
+
+
+
+
+
+Igår hettade det till ordentligt i Sverige och kanske tog några av er då årets premiärdopp. Idag undrar vi därför om ni läsare har badat i något svenskt vattendrag än så länge i år. 
+
+Svara gärna på vår enkät nedan. Vill ni snacka mer…
+  https://feber.se/har-du-badat-i-sverige-annu/481238/
+- Mercedes har kört från Stuttgart till Rom med eldrivna VLE (Feber.se, 2025-07-03) — Laddade totalt 30 minuter
+
+
+
+
+
+
+
+
+
+
+
+
+Nästa år kommer Mercedes att lansera en helt ny modulär och skalbar arkitektur för eldrivna minibussar. Denna kommer att användas av de kommande modellerna VLE och VLS. Den förstnämnda har plats för upp till åtta personer…
+  https://feber.se/bil/mercedes-har-kort-fran-stuttgart-till-rom-med-eldrivna-vle/481258/
+- Över 9 000 får gå från Xbox-avdelningen (Feber.se, 2025-07-03) — Nya massuppsägningar hos Microsoft
+
+
+
+
+
+
+
+
+
+
+
+
+Förra månaden skrev vi om att det ryktades att Microsoft var på gång att skära ner ännu mer personal från sin Xbox-division. Nu har detta bekräftats, och det visade sig att ytterligare 9 100 anställda har sagts u…
+  https://feber.se/spel/over-9-000-far-ga-fran-xbox-avdelningen-/481251/
+- Hyundais pickis tappar i pickis-landet nummer ett (Feber.se, 2025-07-02) — Ner 21 procent
+
+
+
+
+
+
+
+
+
+
+
+
+I USA älskar man pickuper, och så har det varit länge. Fords modell Maverick gjorde sin allra bästa siffra under kvartal två och ökade med 26,3 procent. I år har man hittills sålt 86.056 exemplar vilket är en ökning med 11,6 procent…
+  https://feber.se/bil/hyundais-pickis-tappar-i-pickis-landet-nummer-ett/481228/
+- Nya Apple-funktioner försenas för europeiska användare (Feber.se, 2025-07-02) — EU-regler ställer till det
+
+
+
+
+
+
+Apple kommer att behöva skjuta upp lanseringen av nya funktioner för användare inom EU på grund av regler som gör det allt svårare att implementera dem. Under ett möte i Bryssel bekräftade Apples juridiska chef, Kyle Andeer, a…
+  https://feber.se/mobil/nya-apple-funktioner-forsenas-for-europeiska-anvandare/481227/
+- OnePlus nya budgetlur får gigantiskt batteri (Feber.se, 2025-07-02) — Men bara på vissa marknader
+
+
+
+
+
+
+På lördag är det dags för OnePlus senaste budgetmobil Nord CE5, där en av de mest framträdande egenskaperna är ett batteri på hela 7100 mAh. Det kommer dock med ett stort förbehåll – det gäller nämligen endast vissa marknader…
+  https://feber.se/mobil/oneplus-nya-budgetlur-far-gigantiskt-batteri/481232/
+- Donald Trump-robot på plats på Disneyland (Feber.se, 2025-07-02) — Magic Kingdom har öppnat upp Hall of Presidents igen
+
+
+
+
+
+
+
+
+
+
+Magic Kingdom på Walt Disney World i Florida har öppnat upp sin utställning Hall of Presidents igen efter att denna har arrangerats om under det senaste halvåret. 
+
+Den största nyheten är givetvis…
+  https://feber.se/pryl/donald-trump-robot-pa-plats-pa-disneyland/481237/
+- Nato köper två nya tankplan från Airbus (Feber.se, 2025-06-24) — Nu är Sverige och Danmark med i samarbetet
+
+
+
+
+
+
+
+
+
+
+
+
+Nu står det klart att Nato beställer två stycken nya Airbus A330 MRTT, ett flygplan som redan idag används av Nato. Planet kan vara lite olika saker. Antingen är det en flygande bensinstation, ett flygand…
+  https://feber.se/samhalle/nato-koper-tva-nya-tankplan-fran-airbus/480981/
+- Microsoft och Meta släpper Meta Quest 3S Xbox Edition (Feber.se, 2025-06-24) — Ett Xbox-brandat Meta Quest 3S
+
+
+
+
+
+
+
+
+
+
+
+
+Det har länge ryktats om att Microsoft och Meta samarbetat på någon Xbox-relaterad VR-pryl och idag presenterades denna till slut. Det handlar om ett Meta Quest 3S med 128GB lagring vars headset och handkontroller fä…
+  https://feber.se/spel/microsoft-och-meta-slapper-meta-quest-3s-xbox-edition/480979/
+- Radiokanaler vill göra radio mer framträdande i bilen (Feber.se, 2025-06-24) — Lanserar initiativet Radio Ready
+
+
+
+
+
+
+Europas radiokanaler verkar oroliga för att radio kommer att spela en mindre roll än idag i framtidens uppkopplade bilar. Därför lanserar man nu ett initiativ som man kallar för "Radio Ready". 
+
+Det är Europas största pu…
+  https://feber.se/samhalle/radiokanaler-vill-gora-radio-mer-framtradande-i-bilen/480967/
+- Återupplev Sovjet i Sobakistan: The Land of Dogs (Feber.se, 2025-06-24) — Indiespel med kommunisthundar
+
+
+
+
+
+
+
+
+
+
+
+
+Sobakistan: The Land of Dogs är ett nytt indiespel som utvecklats av den Tokyo-baserade studion Terletski Games som grundats av ryske Vitaly Terletskii. 
+
+Spelet utspelar sig i en totalitär stat som antagligen kan påm…
+  https://feber.se/spel/aterupplev-sovjet-i-sobakistan-the-land-of-dogs/480950/
+- Så ska Queen Elizabeth II hyllas vid Buckingham Palace (Feber.se, 2025-06-24) — Foster + Partners vann uppdraget
+
+
+
+
+
+
+Foster + Partners är kända för en hel del saker, bland annat Apple Park och nya Slussen i Stockholm. Nu har de vunnit ännu ett uppdrag, hyllningen av Queen Elizabeth II. 
+
+Det är St James’s Park vid Buckingham Palace som…
+  https://feber.se/samhalle/sa-ska-queen-elizabeth-ii-hyllas-vid-buckingham-palace/480958/
+- MrBeast får skit för AI-tumnagel-grejja (Feber.se, 2025-06-24) — Sno andras stilar med AI
+
+
+
+
+
+
+
+
+
+
+MrBeast har ju en massa erfarenhet av Youtube och de verktyg han använder för att få saker virala har han samlat i ett verktyg som heter Viewstats. Det är väl bra. Vissa delar är gratis, men poängen är såklart att få folk at…
+  https://feber.se/internet/mrbeast-far-skit-for-ai-tumnagel-grejja/480951/
+- Inga invändningar från Konkurrensverket kring Switch 2-priset (Feber.se, 2025-06-24) — Anser inte att det finns något konkurrensproblem
+
+
+
+
+
+
+Konkurrensverket har meddelat att man inte kommer att vidta några åtgärder efter de anmälningar som kom in till myndigheten där det ansåg att det svenska priset för Nintendo Switch 2 var för högt. En del …
+  https://feber.se/spel/inga-invandningar-fran-konkurrensverket-kring-switch-2-priset/480972/
+- Google Earth fyller 20 år (Feber.se, 2025-06-24) — Tut i luren!
+
+
+
+
+
+
+
+
+
+
+Jag kommer ihåg hur fascinerande jag tyckte Google Earth va när det lanserades. Man kunde se Jorden från rymden och zooma in på nästan vilket ställe som helst. Det var inte bara jag som var fascinerad, mjukvaran laddades ner 100 miljone…
+  https://feber.se/internet/google-earth-fyller-20-ar/480971/
+- Målvaktsregel i fotboll uppdateras (Feber.se, 2025-06-24) — Målvakter får hålla i bollen två sekunder längre
+
+
+
+
+
+
+Nu uppdateras regeln om hur länge en fotbollsmålvakt får hålla i bollen innan denna sätts i spel igen. Med den uppdaterade regeln kommer målvakten att få hålla i bollen i åtta sekunder istället för sex se…
+  https://feber.se/samhalle/malvaktsregel-i-fotboll-uppdateras/480970/
+- Nu jobbar mer än en miljon robotar för näthandelsjätten Amazon (YLE News, 2025-07-01) — Människor hanterar i dag en fjärdedel av Amazons paket, men storbolaget vill öka automatisering och användningen av AI.
+  https://yle.fi/a/7-10080577

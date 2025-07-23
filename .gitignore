@@ -176,9 +176,9 @@ checkpoints/
 
 # === DONNÉES DU PROJET ===
 # Fichiers de résultats (peuvent être volumineux)
-resultats_news_*.txt
-corpus_concatene.txt
-resultats_sentiments_*.json
+# resultats_news_*.txt
+# corpus_concatene.txt
+# resultats_sentiments_*.json
 
 # Sauvegardes et exports
 backup/

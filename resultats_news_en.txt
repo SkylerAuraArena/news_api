@@ -1,0 +1,224 @@
+- Microsoft, OpenAI, and a US Teachers’ Union Are Hatching a Plan to ‘Bring AI into the Classroom’ (Wired, 2025-07-08) — The National Academy for AI Instruction will make artificial intelligence training accessible to educators across the country, according to leaked details.
+  https://www.wired.com/story/microsoft-openai-and-a-us-teachers-union-are-hatching-a-plan-to-bring-ai-into-the-classroom/
+- OpenAI’s Unreleased AGI Paper Could Complicate Microsoft Negotiations (Wired, 2025-06-27) — The partnership between OpenAI and Microsoft in many ways hinges on the definition of artificial general intelligence, creating a tension that has spilled over into OpenAI research that has not been made public.
+  https://www.wired.com/story/openai-five-levels-agi-paper-microsoft-negotiations/
+- Delta Air Lines is using AI to set the maximum price you’re willing to pay (The Verge, 2025-07-18) — Delta Air Lines is leaning into dynamic ticket pricing that uses artificial intelligence to individually determine the highest fee you’d willingly pay for flights, according to comments Fortune spotted in the company’s latest earnings call. Following a limite…
+  https://www.theverge.com/news/709556/delta-air-lines-ai-ticket-price-rollout
+- Meta snubs the EU’s voluntary AI guidelines (The Verge, 2025-07-21) — Meta says it won’t sign the European Union’s artificial intelligence code of practice agreement, warning that “Europe is heading down the wrong path on AI.” The code published by the EU on July 10th is a voluntary set of guidelines to help companies follow th…
+  https://www.theverge.com/news/710576/meta-eu-ai-act-code-of-practice-agreement
+- Bernie Sanders Reveals the AI ‘Doomsday Scenario’ That Worries Top Experts (Gizmodo.com, 2025-07-13) — The Vermont senator discusses his fears that artificial intelligence will only enrich the billionaire class, the fight for a 32-hour work week, and the ‘doomsday scenario’ that has some of the world’s top experts deeply concerned.
+  https://gizmodo.com/bernie-sanders-reveals-the-ai-doomsday-scenario-that-worries-top-experts-2000628611
+- A Federal Moratorium on State AI Rules Is Inching Closer to Passing. Why It Matters (CNET, 2025-06-24) — Congress is considering a policy that would stop states from having their own regulations around artificial intelligence.
+  https://www.cnet.com/tech/services-and-software/a-federal-moratorium-on-state-ai-rules-is-inching-closer-to-passing-why-it-matters/
+- M3gan 2.0 is a fun upgrade that’s a little too self-aware (The Verge, 2025-06-27) — Universal and Blumhouse's first M3gan feature came out of nowhere with a premise so ridiculous and campy that it was hard not to be at least a little intrigued. Equal parts Child's Play and Small Wonder, M3gan was undeniably silly with its story about an AI-p…
+  https://www.theverge.com/movie-reviews/693140/megan-2-review
+- These 4 charts show where the hedge fund industry is midway through 2025 (Business Insider, 2025-07-04) — How the hedge fund industry is navigating choppy markets, geopolitical tensions, and artificial intelligence trends.
+  https://www.businessinsider.com/a-snapshot-of-the-hedge-fund-industry-in-six-charts-2025-7
+- It Started with Games, now It’s the World’s First Ever $4 Trillion Company (Gizmodo.com, 2025-07-09) — Nvidia hits a historic milestone as Wall Street’s biggest bet on AI pays off.
+  https://gizmodo.com/it-started-with-games-now-its-the-worlds-first-ever-4-trillion-company-2000626863
+- Andy Cohen on How He Uses AI: ‘It’s an Incredible Tool. But It’s Going to Make Idiots’ (Gizmodo.com, 2025-07-11) — The Bravo ringleader spills the tea on how he uses ChatGPT and why he's hiding it from his kids. "I'm completely torn."
+  https://gizmodo.com/andy-cohen-on-how-he-uses-ai-its-an-incredible-tool-but-its-going-to-make-idiots-2000627018
+- Congress Dropped a Plan to Block State AI Rules. Why That Matters for Consumers (CNET, 2025-07-01) — A proposed 10-year moratorium on states enforcing rules around artificial intelligence was pulled from the federal budget bill in the Senate.
+  https://www.cnet.com/tech/services-and-software/congress-dropped-a-plan-to-block-state-ai-rules-why-that-matters-for-consumers/
+- Microsoft transfers a top cybersecurity executive out of the company's security group, internal memo shows (Business Insider, 2025-06-26) — Igor Tsyganskiy is moving under Cloud + AI boss Scott Guthrie, another sign of how important artificial intelligence is becoming to Microsoft.
+  https://www.businessinsider.com/microsoft-moves-ciso-out-of-security-group-closer-ai-2025-6
+- OpenAI Reportedly Shuts Down for a Week as Zuck Poaches Its Top Talent (Gizmodo.com, 2025-06-30) — An employee's public lament over poached colleagues and a company-wide shutdown reveal a difficult truth: the human cost of building AI is reaching a breaking point.
+  https://gizmodo.com/openai-reportedly-shuts-down-for-a-week-as-zuck-poaches-its-top-talent-2000622145
+- Artificial intelligence fuels Big Tech partnerships with nuclear energy producers (Fox News, 2025-07-03) — The A.I. industry seems set for growing pains as Big Tech companies scramble for solutions to the medium's unprecedented strain on the power grid.
+  https://www.foxnews.com/tech/artificial-intelligence-fuels-big-tech-partnerships-nuclear-energy-producers
+- The Latest ‘Alien: Earth’ Trailer Adds Even More Alien Monsters (Gizmodo.com, 2025-07-17) — Sydney Chandler, Timothy Olyphant, and Alex Lawther star in the new FX show, starting August 12.
+  https://gizmodo.com/the-latest-alien-earth-trailer-adds-even-more-alien-monsters-2000630723
+- The photographer using AI to reconstruct stories lost to censorship (The Verge, 2025-06-25) — Video screens glow softly from the floor, looping footage of salt lakes, steppe villages, and decaying nuclear test sites. Suspended above them is a large handwoven textile map, crafted by artisans in Kazakhstan. The tapestry maps 12 significant sites across …
+  https://www.theverge.com/ai-artificial-intelligence/688648/almagul-menlibayeva-ai-reimagining-censored-government-work
+- Elon Musk’s Newest AI Chatbot Is Powerful, Controversial, and Already Under Fire (Gizmodo.com, 2025-07-10) — Grok 4 is xAI’s most advanced model yet, but early praise is clashing with old scandals and fresh tests of its limits.
+  https://gizmodo.com/elon-musks-newest-ai-chatbot-is-powerful-controversial-and-already-under-fire-2000627553
+- Nvidia rally persists: What worries this analyst about AI trade (Yahoo Entertainment, 2025-06-26) — Nvidia (NVDA) climbs higher, hitting fresh record highs. However, the artificial intelligence (AI) chipmaker and its "Magnificent Seven" peers have...
+  https://finance.yahoo.com/video/nvidia-rally-persists-worries-analyst-200925188.html
+- Nvidia has 2 big 'upside opportunities' fueling long-term growth (Yahoo Entertainment, 2025-07-10) — Nvidia's (NVDA) future still looks bright with new artificial intelligence (AI), robotics, and software opportunities on the horizon. Yahoo Finance...
+  https://finance.yahoo.com/video/nvidia-2-big-upside-opportunities-203256989.html
+- Nvidia says it will resume sale of key AI chip to China (CNN, 2025-07-15) — Nvidia NVDA.O said on Monday it will resume sales of its H20 artificial intelligence chip to China and has introduced a new model tailored to meet regulatory...
+  https://www.cnn.com/2025/07/15/business/nvidia-resume-h20-chip-sales-to-china-intl-hnk
+- Over a Third of US Population Uses GenAI (Yahoo Entertainment, 2025-06-30) — Generative artificial intelligence tools are being used by more than a third of the US population, and even more are interacting with it through search and...
+  https://finance.yahoo.com/video/over-third-us-population-uses-194659281.html
+- Cloudflare limits "AI crawlers" from gathering online data (Yahoo Entertainment, 2025-07-03) — In a few short years, artificial intelligence has exploded into the mainstream, but it hasn't done so alone. AI companies use bots known as "AI crawlers" to ...
+  https://www.yahoo.com/news/cloudflare-limits-ai-crawlers-gathering-234103261.html
+- Anthropic wins ruling on AI training in copyright lawsuit but must face trial on pirated books (Yahoo Entertainment, 2025-06-24) — In a test case for the artificial intelligence industry, a federal judge has ruled that AI company Anthropic didn’t break the law by training its chatbot...
+  https://www.yahoo.com/news/judge-rules-ai-company-anthropic-173143944.html
+- Code of practice to help companies with AI rules may come end 2025, EU says (Yahoo Entertainment, 2025-07-03) — BRUSSELS (Reuters) -A code of practice designed to help thousands of companies comply with the European Union's landmark artificial intelligence rules may...
+  https://tech.yahoo.com/ai/articles/code-practice-help-companies-ai-120627712.html
+- Musk releases latest Grok version after antisemitism controversy (The Hill, 2025-07-10) — Elon Musk’s artificial intelligence (AI) company xAI unveiled the newest version of its chatbot Grok on Wednesday amid fallout from a recent update that...
+  https://thehill.com/policy/technology/5394085-musk-grok-version-antisemitism-controversy/
+- Nvidia’s Jensen Huang says AI could lead to job losses ‘if the world runs out of ideas’ (CNN, 2025-07-11) — The chief executive of the world’s leading chipmaker warned that while artificial intelligence will significantly boost workplace productivity, it could lead...
+  https://www.cnn.com/2025/07/11/business/nvidia-jensen-huang-ai-job-loss
+- AI and drones still need help from humans to find missing flood victims (Fast Company, 2025-07-18) — With humans and artificial intelligence working together, flood search-and-rescue teams can successfully use existing systems.
+
+For search and rescue, AI is not more accurate than humans, but it is far faster.
+  https://www.fastcompany.com/91370087/ai-drones-human-collaboration-missing-flood-victims
+- AI Might Kill Us All (With Carbon Emissions) (Hackaday, 2025-07-04) — So-called artificial intelligence (AI) is all the rage right now between your grandma asking ChatGPT how to code in Python or influencers making videos without having to hire extras, but one growin…
+  https://hackaday.com/2025/07/03/ai-might-kill-us-all-with-carbon-emissions/
+- AI Is Only Coming For Fun Jobs (Hackaday, 2025-07-05) — In the past few years, what marketers and venture capital firms term “artificial intelligence” but is more often an advanced predictive text model of some sort has started taking people’s …read more
+  https://hackaday.com/2025/07/05/ai-is-only-coming-for-fun-jobs/
+- This Artificial Intelligence (AI) Stock Is Underappreciated and Undervalued (Yahoo Entertainment, 2025-07-14) — None
+  https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ee0c3408-68d0-4222-8c51-eb9c27b02800
+- Bryan Johnson Is Going to Die (Wired, 2025-07-21) — Millions of dollars in treatments, supplements, and scans. Immortality through AI. Bryan Johnson’s longevity script has everything—except an ending.
+  https://www.wired.com/story/big-interview-bryan-johnson/
+- Meta Poaches Two More Apple AI Executives (MacRumors, 2025-07-18) — After poaching one of Apple's top artificial intelligence executives with a $200 million pay package to lure him away from the company, Meta has now hired two of his subordinates, Bloomberg reports.
+
+
+
+
+
+Apple's Mark Lee and Tom Gunter are set to join Meta's …
+  https://www.macrumors.com/2025/07/17/meta-poaches-two-more-apple-ai-executives/
+- Zuckerberg Was Wrong About the Metaverse. Can We Really Trust Him With Superintelligent AI? (Gizmodo.com, 2025-07-04) — After sinking billions into a virtual fantasy that flopped, Mark Zuckerberg now claims he’s leading the charge toward superintelligent AI. But this time, the stakes are real, and so is the power grab.
+  https://gizmodo.com/zuckerberg-was-wrong-about-the-metaverse-can-we-really-trust-him-with-superintelligent-ai-2000624294
+- Galaxy Watch 7 Is Almost Free, Amazon Clears Out Samsung Watches on Prime Day (Gizmodo.com, 2025-07-08) — If you have an Android phone, the Galaxy Watch 7 costs three times less than an Apple Watch.
+  https://gizmodo.com/galaxy-watch-7-is-almost-free-amazon-clears-out-samsung-watches-on-prime-day-2000626076
+- Trump Wants Border Surveillance Towers That Only Palmer Luckey Can Build (Gizmodo.com, 2025-07-10) — Sure looks like a handout for a Trump ally.
+  https://gizmodo.com/trump-wants-border-surveillance-towers-that-only-palmer-luckey-can-build-2000627594
+- Galaxy Buds 3 Pro Hit New Record Low, Amazon Selling Them Cheaper Than Samsung’s Own Site (Gizmodo.com, 2025-06-25) — These are the best truly AI-powered earbuds.
+  https://gizmodo.com/galaxy-buds-3-pro-hit-new-record-low-amazon-selling-them-cheaper-than-samsungs-own-site-2000620184
+- OpenAI Says It Has No Plan To Use Google's In-house Chip (Slashdot.org, 2025-07-07) — An anonymous reader shares a report: OpenAI said it has no active plans to use Google's in-house chip to power its products, two days after Reuters and other news outlets reported on the AI lab's move to turn to its competitor's artificial intelligence chips …
+  https://tech.slashdot.org/story/25/07/07/1740250/openai-says-it-has-no-plan-to-use-googles-in-house-chip
+- BYU study: Why some people choose not to use artificial intelligence (Byu.edu, 2025-06-28) — Concerns about safety, ethics and unreliability top the list
+  https://news.byu.edu/intellect/byu-study-finds-the-real-reasons-why-some-people-choose-not-to-use-artificial-intelligence
+- Meta Offered Apple AI Executive Over $200 Million to Leave (MacRumors, 2025-07-10) — Meta offered one of Apple's top artificial intelligence executives over $200 million to lure him away from the company, Bloomberg reports.
+
+
+
+
+
+Ruoming Pang, who until recently led Apple's foundation models team, departed the company to join Meta's Superintel…
+  https://www.macrumors.com/2025/07/10/meta-offered-apple-ai-executive-over-200-million/
+- Nominate innovators for Business Insider's AI Power List, recognizing the most powerful people in AI (Business Insider, 2025-07-18) — We're looking for the most powerful people in AI and machine learning  for Business Insider's 2025 AI Power List.
+  https://www.businessinsider.com/nominations-open-for-ai-power-list-2025-7
+- Nvidia Hits $4 Trillion Market Cap, First Company To Do So (Slashdot.org, 2025-07-09) — Nvidia shares jumped more than 2% on Wednesday, topping a $4 trillion market cap for the first time as investors scooped stock in the tech giant building the hardware for the generative AI boom. From a report: The chipmaker is the first company to ever achiev…
+  https://slashdot.org/story/25/07/09/149217/nvidia-hits-4-trillion-market-cap-first-company-to-do-so
+- A recent high-profile case of AI hallucination serves as a stark warning (NPR, 2025-07-10) — MyPillow creator Mike Lindell's lawyers were fined thousands for submitting a legal filing riddled with AI-generated mistakes. It highlights a dilemma of balancing technology and using it responsibly.
+  https://www.npr.org/2025/07/10/nx-s1-5463512/ai-courts-lawyers-mypillow-fines
+- We’re Light-Years Away from True Artificial Intelligence, Says Murderbot Author Martha Wells (Scientific American, 2025-07-11) — Today’s large language models are hardly related to the kinds of machine intelligence we see in science fiction, according to Martha Wells, author of the Murderbot Diaries series
+  https://www.scientificamerican.com/article/were-light-years-away-from-true-artificial-intelligence-says-murderbot/
+- Tests that AIs Often Fail and Humans Ace Could Pave the Way for Artificial General Intelligence (Scientific American, 2025-07-18) — Discover why some puzzles stump supersmart AIs but are easy for humans, what this reveals about the quest for true artificial general intelligence—and why video games are the next frontier
+  https://www.scientificamerican.com/article/tests-that-ais-often-fail-and-humans-ace-could-pave-the-way-for-artificial/
+- Musk's Grok signs $200m deal with Pentagon days after antisemitism row (BBC News, 2025-07-14) — The deal is part of the Trump administration's push for more aggressive adoption of artificial intelligence in the government.
+  https://www.bbc.com/news/articles/c628d9mre3go
+- 36% of Chinese Undergraduates Choose Engineering, Compared To 5% in US and UK (Slashdot.org, 2025-06-27) — 36% of all Chinese undergraduate entrants -- about 1.6 million people -- selected engineering degrees in 2022 (the latest year for which data are available), up from 32% in 2010, according to data from China's Ministry of Education. In Britain and America, wh…
+  https://news.slashdot.org/story/25/06/27/1340213/36-of-chinese-undergraduates-choose-engineering-compared-to-5-in-us-and-uk
+- Got $5,000? These 3 Artificial Intelligence Stocks Are Absurdly Cheap Right Now. (Yahoo Entertainment, 2025-06-27) — None
+  https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ced8471d-5070-4b47-b7f0-1b62eafdf0b6
+- This Artificial Intelligence (AI) Stock Just Hit a New High -- and It's Still a Buy (Yahoo Entertainment, 2025-07-12) — None
+  https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dc73df30-8f15-4890-8e58-e4adbc95ad10
+- Xi Jinping is questioning if all of China should chase the same AI and EV dreams (Business Insider, 2025-07-18) — China's top leadership  has recently pledged to curb "involutionary" competition amid intense price wars in the country.
+  https://www.businessinsider.com/china-eonomy-xi-jinping-industry-involution-competition-ev-ai-deflation-2025-7
+- Tesla’s Numbers Are In, and They’re Not Good (Gizmodo.com, 2025-07-03) — The electric vehicle maker has posted its second straight quarter of declining deliveries this year, continuing to pay the price for Elon Musk's political turn.
+  https://gizmodo.com/teslas-numbers-are-in-and-theyre-not-good-2000623670
+- An Engineer’s Diary Reveals the Human Cost of Building OpenAI’s Next Big Thing (Gizmodo.com, 2025-07-17) — With a newborn at home, a former top engineer details the grueling, 7-week sprint that pushed a small team to its absolute limit to ship a world-changing product.
+  https://gizmodo.com/an-engineers-diary-reveals-the-human-cost-of-building-openais-next-big-thing-2000630482
+- Meta Is Building Massive Gigawatt Data Centers as It Pours Billions Into AI (Gizmodo.com, 2025-07-14) — "Just one of these covers a significant part of the footprint of Manhattan,” Mark Zuckerberg said.
+  https://gizmodo.com/meta-is-building-massive-gigawatt-data-centers-as-it-pours-billions-into-ai-2000628918
+- Truth Social Needs Its Own Grok. Trump Has the Trademarks (Gizmodo.com, 2025-07-17) — A MAGA-bot could be on the way.
+  https://gizmodo.com/truth-social-needs-its-own-grok-trump-has-the-trademarks-2000630410
+- OpenAI Is Trying to Reset (Gizmodo.com, 2025-07-09) — The company behind ChatGPT tries to regain its footing as the talent war heats up.
+  https://gizmodo.com/openai-is-trying-to-reset-2000627190
+- The Hidden Cost of OpenAI’s Genius (Gizmodo.com, 2025-07-09) — The creator of ChatGPT is handing out stock packages that exceed its total revenue, a high stakes gamble to keep its engineers from defecting to rivals like Meta.
+  https://gizmodo.com/the-hidden-cost-of-openais-genius-2000626374
+- OpenAI Quietly Turns to Google to Stay Online (Gizmodo.com, 2025-07-18) — The most powerful artificial intelligence company in the world just admitted it needs help from one of its biggest rivals to stay afloat.
+  https://gizmodo.com/openai-quietly-turns-to-google-to-stay-online-2000631252
+- Nvidia CEO to hold media briefing in Beijing on July 16 (Yahoo Entertainment, 2025-07-13) — BEIJING (Reuters) -Nvidia CEO Jensen Huang will hold a media briefing in Beijing on July 16, an official from the company said on Sunday, marking his second ...
+  https://finance.yahoo.com/news/nvidia-ceo-hold-media-briefing-111149072.html
+- AI could harm your critical thinking skills. Should that change how you use it? (Android Central, 2025-07-07) — A study tracked the learning and thinking behaviors of ChatGPT users, and early conclusions suggest a concerning trend. What does that mean for you?
+  https://www.androidcentral.com/apps-software/ai/ai-could-harm-your-critical-thinking-skills-should-that-change-how-you-use-it
+- Elon Musk’s Nazi Robot Just Landed a Contract With the Department of Defense (Gizmodo.com, 2025-07-14) — xAI said it would be "turning shovels into tokens."
+  https://gizmodo.com/elon-musks-nazi-robot-just-landed-a-contract-with-the-department-of-defense-2000628986
+- Fox News AI Newsletter: Trump Cabinet official impersonated (Fox News, 2025-07-12) — Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.
+  https://www.foxnews.com/tech/ai-newsletter-trump-cabinet-official-impersonated
+- Fed Chair Powell Says AI Is Coming For Your Job (Slashdot.org, 2025-06-27) — Federal Reserve Chair Jerome Powell told the U.S. Senate that while AI hasn't yet dramatically impacted the economy or labor market, its transformative effects are inevitable -- though the timeline remains uncertain. The Register reports: Speaking to the US S…
+  https://news.slashdot.org/story/25/06/27/2044239/fed-chair-powell-says-ai-is-coming-for-your-job
+- Chinese Film Foundation Plans to Use AI to 'Revitalize' 100 Classic Kung Fu Films (Slashdot.org, 2025-07-07) — "The China Film Foundation, a nonprofit fund under the Chinese government, plans to use AI to revitalize 100 kung fu classics including Police Story, Once Upon a Time in China and Fist of Fury, featuring Jackie Chan, Jet Li and Bruce Lee, respectively," repor…
+  https://entertainment.slashdot.org/story/25/07/07/0112225/chinese-film-foundation-plans-to-use-ai-to-revitalize-100-classic-kung-fu-films
+- An AI That Promises to “Solve All Diseases” Is About to Test Its First Human Drugs (Gizmodo.com, 2025-07-09) — A secretive, Google-backed lab is using artificial intelligence to invent new medicines for humanity's worst illnesses. But can we trust drugs designed by a mind that isn't human?
+  https://gizmodo.com/an-ai-that-promises-to-solve-all-diseases-is-about-to-test-its-first-human-drugs-2000626366
+- UK May Backtrack on Controversial Demand for Backdoor to Encrypted Apple User Data (MacRumors, 2025-07-21) — The British government may be forced to drop its plans to force Apple to build a backdoor into encrypted user data, the Financial Times reports.
+
+
+
+
+
+In February, it emerged that the British government had secretly demanded Apple gives it access to all encryp…
+  https://www.macrumors.com/2025/07/20/uk-may-backtrack-on-demand-for-backdoor/
+- Major Tech Company Announces More Layoffs (Men's Journal, 2025-07-02) — The ever-developing world of artificial intelligence has companies making major changes all across the board. Microsoft announced layoffs in May, cutting...
+  https://www.mensjournal.com/news/microsoft-announces-layoffs-thousands-workers
+- Barack Obama Warns AI Revolution Is 'Not Hype,' Says 'You're Going To Start Seeing Shifts...' (Yahoo Entertainment, 2025-06-24) — Former President Barack Obama warned that artificial intelligence is "coming to your neighborhood faster than you think," saying the technology is already...
+  https://finance.yahoo.com/news/barack-obama-warns-ai-revolution-094527738.html
+- Taiwan Semi profit booms by 61% as Nvidia buoys demand (MarketWatch, 2025-07-17) — Taiwan Semiconductor Manufacturing Co., the contract manufacturer for companies including Nvidia and Apple, on Thursday said its profit surged in the second quarter due to artificial-intelligence demand.
+  https://www.marketwatch.com/story/taiwan-semi-profit-booms-by-61-as-nvidia-buoys-demand-9ea32111
+- Here’s how Apple Intelligence keeps privacy in mind versus the competition (9to5Mac, 2025-07-20) — Artificial intelligence has obviously been the industry craze for the past couple years. While large language models are incredibly capable, they’ve always come with a bit of a compromise: privacy. Ultimately, you’re still using a model hosted in the cloud, a…
+  https://9to5mac.com/2025/07/20/heres-how-apple-intelligence-keeps-privacy-in-mind-versus-the-competition/
+- Nvidia Gets US Green Light to Sell H20 AI Chips to China (Yahoo Entertainment, 2025-07-15) — Nvidia Corp. plans to resume sales of its H20 AI chip to China after securing Washington's assurances that such shipments would get approved, a dramatic...
+  https://finance.yahoo.com/video/nvidia-gets-us-green-light-090027109.html
+- Apple Needs 'Product-Focused CEO,' Say Analysts As Tim Cook Faces Heat Over AI Failures And Innovation Slump (Yahoo Entertainment, 2025-07-10) — Analysts from LightShed Partners have suggested that Apple Inc. (NASDAQ:AAPL) should consider a change in leadership to prioritize product innovation...
+  https://finance.yahoo.com/news/apple-needs-product-focused-ceo-203103999.html
+- ‘Elon Musk Gives Himself Another Handshake’ (Pxlnv.com, 2025-07-15) — Berber Jin and Becky Peterson, Wall Street Journal: Elon Musk’s SpaceX has agreed to invest $2 billion in his artificial-intelligence company xAI, investors close to the companies said, nearly half of the Grok chatbot maker’s recent equity raise. This comes j…
+  https://pxlnv.com/linklog/musk-xai-spacex/
+- Beware of Promoting AI in Products, Researchers Warn Marketers (Slashdot.org, 2025-06-30) — The Wall Street Journal reports that "consumers have less trust in offerings labeled as being powered by artificial intelligence, which can reduce their interest in buying them, researchers say."
+
+
+
+ The effect is especially pronounced for offerings perceived…
+  https://slashdot.org/story/25/06/29/2310217/beware-of-promoting-ai-in-products-researchers-warn-marketers
+- Why I want the EU to pause the AI Act — as a climate advocate (The Next Web, 2025-07-16) — “There is no stop the clock. There is no grace period. There is no pause.” So said Thomas Regnier, a spokesman for the European Commission, in response to calls for a pause on the EU’s AI Act. These landmark rules on artificial intelligence will, then, be rol…
+  https://thenextweb.com/news/pause-eu-ai-act-rush-risks-innovation
+- This is how OpenAI COO Brad Lightcap defines AI agents (Business Insider, 2025-07-18) — OpenAI COO Brad Lightcap says an AI agent should be able to take on work it hasn't seen before. OpenAI released its latest agent this week.
+  https://www.businessinsider.com/openai-coo-brad-lightcap-ai-agents-chatgpt-agent-2025-7
+- OpenAI and Microsoft are dueling over AGI. These real-world tests will prove when AI is really better than humans. (Business Insider, 2025-06-29) — The most important AI partnership in the world partly revolves around whether OpenAI achieves AGI. I propose several practical tests.
+  https://www.businessinsider.com/openai-microsoft-duel-agi-real-world-tests-ai-better-humans-2025-6
+- The dangers of so-called AI experts believing their own hype (New Scientist, 2025-07-02) — Beware the tech leaders making grandiose statements about artificial intelligence. They have lost sight of reality, says Philip Ball
+  https://www.newscientist.com/article/mg26635500-100-the-dangers-of-so-called-ai-experts-believing-their-own-hype/
+- US senators warn Nvidia CEO about upcoming China trip (Yahoo Entertainment, 2025-07-11) — SAN FRANCISCO (Reuters) -A bipartisan pair of U.S. senators sent a letter to Nvidia CEO Jensen Huang on Friday about an upcoming trip to China, warning the...
+  https://finance.yahoo.com/news/us-senators-warn-nvidia-ceo-190255991.html
+- Microsoft Sued By Authors Over Use of Books in AI Training (Slashdot.org, 2025-06-26) — Microsoft has been hit with a lawsuit by a group of authors who claim the company used their books without permission to train its Megatron artificial intelligence model. From a report: Kai Bird, Jia Tolentino, Daniel Okrent and several others alleged that Mi…
+  https://news.slashdot.org/story/25/06/25/2137220/microsoft-sued-by-authors-over-use-of-books-in-ai-training
+- Microsoft Just Fired About 9,000 People While Making Billions (Gizmodo.com, 2025-07-03) — The tech giant is posting staggering profits and leading the AI revolution.
+  https://gizmodo.com/microsoft-just-fired-about-9000-people-while-making-billions-2000623667
+- Uber Announces Global Robotaxi Plan With Lucid and Nuro (CNET, 2025-07-17) — The rideshare company plans to invest several hundred million dollars into the program.
+  https://www.cnet.com/home/electric-vehicles/uber-announces-global-robotaxi-plan-with-lucid-and-nuro/
+- Marginalized Americans are highly skeptical of artificial intelligence, research finds (Phys.Org, 2025-07-02) — Artificial intelligence may be marketed as society's great equalizer—transforming businesses, streamlining work and making life easier for all—but for many marginalized Americans, AI doesn't feel like a promise.
+  https://phys.org/news/2025-07-marginalized-americans-highly-skeptical-artificial.html
+- Anthropic signs a $200mm deal with the Department of Defense (Anthropic.com, 2025-07-14) — The U.S. Department of Defense (DOD), through its Chief Digital and Artificial Intelligence Office (CDAO), has awarded Anthropic a two-year prototype other transaction agreement with a $200 million ceiling. As part of the agreement, Anthropic will prototype f…
+  https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations
+- Will we ever feel comfortable with AIs taking on important tasks? (New Scientist, 2025-07-09) — An example from the history of mathematics shows how views on the trustworthiness of artificial intelligence can quickly start to change
+  https://www.newscientist.com/article/mg26735512-800-will-we-ever-feel-comfortable-with-ais-taking-on-important-tasks/
+- After Soaring by 80% During the First Half of 2025, Could This Unstoppable Artificial Intelligence (AI) Stock Be Wall Street's Next Stock-Split Candidate? (Yahoo Entertainment, 2025-07-11) — None
+  https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4087e709-098c-4018-930c-8092b50a8330
+- Apple's Tim Cook and Eddy Cue Attend 2025 Sun Valley Conference (MacRumors, 2025-07-14) — Apple CEO Tim Cook and Senior Vice President of Services Eddy Cue are attending the 2025 Allen & Company Sun Valley Conference in Idaho, joining an exclusive gathering of global leaders from the technology, media, finance, and political sectors (via Fortune).…
+  https://www.macrumors.com/2025/07/14/tim-cook-and-eddy-cue-attend-sun-valley-conference/
+- SpaceX to invest $2 billion in Musk's xAI startup, WSJ reports (Yahoo Entertainment, 2025-07-12) — The investment follows xAI's merger with X and values the combined company at $113 billion, with the Grok chatbot now powering Starlink support and eyed for ...
+  https://finance.yahoo.com/news/spacex-invest-2-billion-musks-224010348.html
+- Slack gets smarter: New AI tools summarize chats, explain jargon, and automate work (VentureBeat, 2025-07-17) — Slack launches comprehensive AI features including enterprise search and writing assistance as Salesforce challenges Microsoft's workplace AI dominance while blocking rival access to platform data.
+  https://venturebeat.com/ai/slack-gets-smarter-new-ai-tools-summarize-chats-explain-jargon-and-automate-work/
+- Quantum computing is so fire — No, seriously. BofA says it could be humanity’s biggest breakthrough since the discovery of fire (Yahoo Entertainment, 2025-07-19) — "A technology that can perform endless complex calculations in zero-time, warp-speeding human knowledge and development."
+  https://finance.yahoo.com/news/quantum-computing-fire-no-seriously-190420811.html
+- CoreWeave Data Center To Double City's Power Needs (Slashdot.org, 2025-07-15) — An anonymous reader quotes a report from Bloomberg: CoreWeave is expanding a data center that is projected to double the electricity needs of a city near Dallas, another example of the strains that artificial intelligence workloads are placing on the US power…
+  https://hardware.slashdot.org/story/25/07/14/2337208/coreweave-data-center-to-double-citys-power-needs
+- The Startup-Filled Coder 'Village' at the Heart of China's AI Frenzy (Slashdot.org, 2025-07-07) — China "is pouring money into building an AI supply chain with as little reliance on the U.S. as possible," the Wall Street Journal noted this weekend. 
+
+But what does that look like? The New York Times visits Liangzhu, "the coder 'village' at the heart of Chi…
+  https://slashdot.org/story/25/07/06/2045246/the-startup-filled-coder-village-at-the-heart-of-chinas-ai-frenzy
+- California Set To Become First US State To Manage Power Outages With AI (Slashdot.org, 2025-07-15) — An anonymous reader quotes a report from MIT Technology Review: California's statewide power grid operator is poised to become the first in North America to deploy artificial intelligence to manage outages, MIT Technology Review has learned. "We wanted to mod…
+  https://hardware.slashdot.org/story/25/07/14/238238/california-set-to-become-first-us-state-to-manage-power-outages-with-ai
+- Why the next app for relationships won't look like a dating app, according to a VC (Business Insider, 2025-07-10) — Amber Atherton is a VC looking for the next big app to disrupt how we build new and maintain our existing relationships.
+  https://www.businessinsider.com/how-ai-disrupt-relationship-dating-social-apps-vc-amber-atherton-2025-7
+- New York tech leaders are trying to unseat San Francisco for the future of the industry (Business Insider, 2025-07-11) — New York is investing in its AI industry. Tech:NYC, an organization aimed at growing the city's tech industry, also secured new funding.
+  https://www.businessinsider.com/nyc-vs-sf-new-york-san-francisco-tech-industry-2025-7
+- WeWork's former top lawyer wants to do with fund docs what TurboTax did for tax prep. Big Law should be nervous. (Business Insider, 2025-07-15) — Covenant wants to do for fund docs what TurboTax did for tax prep: make the old way look unnecessarily expensive.
+  https://www.businessinsider.com/weworks-former-top-lawyer-is-starting-an-ai-native-law-firm-2025-7
+- Pixar's chief creative officer says AI is 'the least impressive blah average of things' (Business Insider, 2025-07-05) — Pixar's chief creative officer, Pete Docter, told comedian Mike Birbiglia that he doesn't think AI will fully replace humans in animated filmmaking.
+  https://www.businessinsider.com/pixar-chief-creative-officer-pete-docter-ai-jobs-animation-2025-7
+- Top OpenAI exec is skeptical of Dario Amodei's prediction that AI will wipe out white-collar jobs (Business Insider, 2025-06-26) — Open AI COO Brad Lightcap said Anthropic's Dario Amodei is wrong to suggest AI will destroy white-collar jobs in the next one to five years.
+  https://www.businessinsider.com/openai-response-to-dario-amodei-white-collar-jobs-ai-prediction-2025-6
+- As Zuck Races to Build Godlike AI, Women and People of Color Aren’t Invited (Gizmodo.com, 2025-07-11) — Mark Zuckerberg’s elite dream team wants to create machines that surpass human intelligence. But how can they build something for everyone when they don’t represent everyone?
+  https://gizmodo.com/as-zuck-races-to-build-godlike-ai-women-and-people-of-color-arent-invited-2000628303
+- Bernie Sanders says AI should be used to help give people a 4-day workweek (Business Insider, 2025-06-24) — The Vermont senator said the productivity gains reaped from AI should be used to give workers more time with family and friends.
+  https://www.businessinsider.com/bernie-sanders-ai-workers-4-day-workweek-2025-6
+- Mark Cuban says AI could make 'just one dude in a basement' the world's first trillionaire (Business Insider, 2025-07-04) — The 66-year-old billionaire compared AI's potential to when computers and smartphones were first developed.
+  https://www.businessinsider.com/mark-cuban-worlds-first-trillionaire-using-ai-2025-7

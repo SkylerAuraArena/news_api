@@ -1,0 +1,200 @@
+- Marktprognose: Künstliche Intelligenz treibt die IT-Investitionen (heise online, 2025-07-16) — Gartner sagt für 2025 ein weltweites Wachstum der IT-Ausgaben um fast acht Prozent voraus – angetrieben von hohen Investitionen in KI-Infrastruktur.
+  https://www.heise.de/news/Marktprognose-Kuenstliche-Intelligenz-treibt-die-IT-Investitionen-10489215.html
+- KI macht Entwickler ersetzbar: Wer künftig gebraucht wird – und wer nicht (heise online, 2025-07-02) — Künstliche Intelligenz revolutioniert die Softwareentwicklung. Wer nicht versteht, was er tut, wird ersetzt. Was Entwickler und Unternehmen jetzt brauchen.
+  https://www.heise.de/blog/KI-macht-Entwickler-ersetzbar-Wer-kuenftig-gebraucht-wird-und-wer-nicht-10463836.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+- KI im Klassenraum: Bremer Schulen nutzen Chatbot Telli (heise online, 2025-06-26) — Künstliche Intelligenz im Unterricht – kann ein Chatbot Kindern und Lehrkräften helfen? Ein Besuch an einer Bremer Schule.
+  https://www.heise.de/news/KI-im-Klassenraum-Bremer-Schulen-nutzen-Chatbot-Telli-10461103.html
+- Googles Kohlendioxid-Emissionen steigen erneut (heise online, 2025-06-28) — Der Suchmaschinen-Konzern Google befindet sich mit seinen Treibhausgas-Emissionen weiter im Aufwärtstrend. Grund dafür ist auch künstliche Intelligenz.
+  https://www.heise.de/news/Googles-Kohlendioxid-Emissionen-steigen-erneut-10463326.html
+- Künstliche Intelligenz: Bosch setzt auf Multiagentensysteme in der Produktion (Golem.de, 2025-06-25) — Der Autozulieferer Bosch bildet in seinen Werken inzwischen Teams von KI-Agenten. Das soll Ausfallzeiten reduzieren. (Bosch, KI)
+  https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fkuenstliche-intelligenz-bosch-setzt-auf-multiagentensysteme-in-der-produktion-2506-197453.html&referer=https%3A%2F%2Ft.co%2F655b575b1c
+- heise+ | Warum die Gaming-Industrie auf KI-Stimmen drängt: Experte im Gespräch (heise online, 2025-07-03) — In kaum einem Bereich drängen Produzenten so stark auf KI-Stimmen wie bei Spielen. Sprecher Tobias Brecklinghaus erläutert im Interview, warum das so ist.
+  https://www.heise.de/hintergrund/Warum-die-Gaming-Industrie-auf-KI-Stimmen-draengt-Experte-im-Gespraech-10392404.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus
+- Microsoft: Xbox-Manager rät Entlassenen zur psychologischen KI-Hilfe (Golem.de, 2025-07-05) — Nach der Ankündigung von 9.000 Entlassungen bei Microsoft empfiehlt ein Manager, künstliche Intelligenz zur emotionalen Bewältigung zu nutzen. (Microsoft, KI)
+  https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fmicrosoft-xbox-manager-raet-entlassenen-zur-psychologischen-ki-hilfe-2507-197795.html&referer=https%3A%2F%2Ft.co%2F005f38b74e
+- Künstliche Intelligenz: Einen Realfilm zum Zeichentrickfilm machen - in drei Stunden (Golem.de, 2025-07-05) — Mithilfe von KI möchte Lionsgate die Möglichkeit ausloten, vorhandene Filme so zu verändern, dass sie auch für ein anderes Publikum funktionieren. (KI, Film)
+  https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fkuenstliche-intelligenz-einen-realfilm-zum-zeichentrickfilm-machen-in-drei-stunden-2507-197140.html&referer=https%3A%2F%2Ft.co%2Fba783d6491
+- Künstliche Intelligenz: Trump will Chatbots zur "Neutralität" zwingen (Golem.de, 2025-07-18) — Firmen, die Aufträge der US-Regierung erhalten wollen, sollen sicherstellen, dass ihre KI-Modelle unvoreingenommen arbeiten. (KI, Politik)
+  https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fkuenstliche-intelligenz-trump-will-chatbots-zur-neutralitaet-zwingen-2507-198251.html&referer=https%3A%2F%2Ft.co%2F8f6495cc01
+- Künstliche Intelligenz: KI-Chatbot für Schüler und Lehrkräfte in Bremen (Die Zeit, 2025-06-25) — Hier finden Sie Informationen zu dem Thema „Künstliche Intelligenz“. Lesen Sie jetzt „KI-Chatbot für Schüler und Lehrkräfte in Bremen“.
+  https://www.zeit.de/news/2025-06/25/ki-chatbot-fuer-schueler-und-lehrkraefte-in-bremen
+- Künstliche Intelligenz: Bund will mehr Geschwindigkeit bei Digitalisierung und KI (Die Zeit, 2025-06-30) — Hier finden Sie Informationen zu dem Thema „Künstliche Intelligenz“. Lesen Sie jetzt „Bund will mehr Geschwindigkeit bei Digitalisierung und KI“.
+  https://www.zeit.de/news/2025-06/30/bund-will-mehr-geschwindigkeit-bei-digitalisierung-und-ki
+- Künstliche Intelligenz: Musk kündigt "kinderfreundliche" Version von Chatbot an (Die Zeit, 2025-07-20) — Hier finden Sie Informationen zu dem Thema „Künstliche Intelligenz“. Lesen Sie jetzt „Musk kündigt "kinderfreundliche" Version von Chatbot an“.
+  https://www.zeit.de/news/2025-07/20/musk-kuendigt-kinderfreundliche-version-von-chatbot-an
+- Künstliche Intelligenz: Betrüger soll sich als US-Außenminister ausgegeben haben (Die Zeit, 2025-07-08) — Hier finden Sie Informationen zu dem Thema „Künstliche Intelligenz“. Lesen Sie jetzt „Betrüger soll sich als US-Außenminister ausgegeben haben“.
+  https://www.zeit.de/news/2025-07/08/betrueger-soll-sich-als-us-aussenminister-ausgegeben-haben
+- Künstliche Intelligenz: Tschechien verbietet KI-Chatbot Deepseek in Behörden (Die Zeit, 2025-07-09) — Hier finden Sie Informationen zu dem Thema „Künstliche Intelligenz“. Lesen Sie jetzt „Tschechien verbietet KI-Chatbot Deepseek in Behörden“.
+  https://www.zeit.de/news/2025-07/09/tschechien-verbietet-ki-chatbot-deepseek-in-behoerden
+- Künstliche Intelligenz: Chipfertiger TSMC mit Gewinnsprung - KI-Boom treibt an (Die Zeit, 2025-07-17) — Hier finden Sie Informationen zu dem Thema „Künstliche Intelligenz“. Lesen Sie jetzt „Chipfertiger TSMC mit Gewinnsprung - KI-Boom treibt an“.
+  https://www.zeit.de/news/2025-07/17/chipfertiger-tsmc-mit-gewinnsprung-ki-boom-treibt-an
+- Künstliche Intelligenz: Pentagon vergibt Millionenaufträge für KI an US-Techfirmen (Die Zeit, 2025-07-15) — Hier finden Sie Informationen zu dem Thema „Künstliche Intelligenz“. Lesen Sie jetzt „Pentagon vergibt Millionenaufträge für KI an US-Techfirmen“.
+  https://www.zeit.de/news/2025-07/15/pentagon-vergibt-millionenauftraege-fuer-ki-an-us-techfirmen
+- Künstliche Intelligenz: Datenschutzbeauftragte will DeepSeek aus App-Stores nehmen (Die Zeit, 2025-07-14) — Die Bundesdatenschutzbeauftragte will den chinesischen Chatbot DeepSeek aus deutschen App-Stores verbannen lassen. Datenabflüsse nach China seien "äußerst kritisch".
+  https://www.zeit.de/politik/deutschland/2025-07/deepseek-app-store-deutschland-verbannung-datenschutzbeauftragte-forderung
+- Anzeige: Die Grundlagen der KI für Fach- und Führungskräfte (Golem.de, 2025-07-15) — Künstliche Intelligenz verändert Prozesse, Produkte und Entscheidungen - dieser Workshop erklärt zentrale Konzepte, Praxisanwendungen und Fallstricke beim Einsatz von KI im Unternehmen. (Golem Karrierewelt, KI)
+  https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fanzeige-die-grundlagen-der-ki-fuer-fach-und-fuehrungskraefte-2507-197612.html&referer=https%3A%2F%2Ft.co%2Fda33247cab
+- Unternehmen: Warum Bosch Milliarden in Künstliche Intelligenz steckt (Die Zeit, 2025-06-25) — Hier finden Sie Informationen zu dem Thema „Unternehmen“. Lesen Sie jetzt „Warum Bosch Milliarden in Künstliche Intelligenz steckt“.
+  https://www.zeit.de/news/2025-06/25/warum-bosch-milliarden-in-kuenstliche-intelligenz-steckt
+- Künstliche Intelligenz: Scharpf will München als Gründerzentrum ausbauen (Die Zeit, 2025-06-29) — Hier finden Sie Informationen zu dem Thema „Künstliche Intelligenz“. Lesen Sie jetzt „Scharpf will München als Gründerzentrum ausbauen“.
+  https://www.zeit.de/news/2025-06/29/scharpf-will-muenchen-als-gruenderzentrum-ausbauen
+- Künstliche Intelligenz: Siemens holt KI-Experten von Amazon (Die Zeit, 2025-06-30) — Hier finden Sie Informationen zu dem Thema „Künstliche Intelligenz“. Lesen Sie jetzt „Siemens holt KI-Experten von Amazon“.
+  https://www.zeit.de/news/2025-06/30/siemens-holt-ki-experten-von-amazon
+- Die besten KI-basierten Schreibwerkzeuge (Faz.net, 2025-06-25) — Künstliche Intelligenz wird in Textverarbeitungsprogrammen so selbstverständlich wie die Rechtschreibprüfung. Ein Überblick.
+  https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/kuenstliche-intelligenz-als-schreibwerkzeug-das-sind-die-besten-tools-110544226.html
+- (g+) Besser trainieren: Acht sportliche KI-Ideen für kluge Athleten (Golem.de, 2025-07-06) — Künstliche Intelligenz erobert den Sport. Wer die Technik clever einsetzt, trainiert besser, gezielter und nachhaltiger. Ein Ratgebertext von Peter Steinlechner (Fitness, KI)
+  https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fbesser-trainieren-acht-sportliche-ki-ideen-fuer-kluge-athleten-2507-197745.html&referer=https%3A%2F%2Ft.co%2Fc193c8f446
+- (g+) Künstliche Intelligenz: So einfach wie heute war Webentwicklung noch nie! (Golem.de, 2025-07-12) — Weniger tippen, mehr gestalten: Künstliche Intelligenz und gutes Tooling nehmen Webentwicklern viel Arbeit ab. Eine Anleitung von Michael Lohr (Softwareentwicklung, KI)
+  https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fkuenstliche-intelligenz-so-einfach-wie-heute-war-webentwicklung-noch-nie-2507-197705.html&referer=https%3A%2F%2Ft.co%2F240bd93bde
+- Warum Künstliche Intelligenz Unternehmen zunächst weniger produktiv macht (Faz.net, 2025-07-18) — Die Forschung zeigt: In Fertigungsunternehmen führt die Einführung von KI kurzfristig zu Produktivitätsverlusten. Besonders etablierte Firmen leiden unter Anpassungskosten – bevor sich der Trend umkehrt.
+  https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/warum-ki-unternehmen-zunaechst-weniger-produktiv-macht-110586189.html
+- EU-Kartellbeschwerde: Britische Verleger klagen gegen Googles Künstliche Intelligenz (Faz.net, 2025-07-07) — Unabhängige Verleger klagen gegen Googles KI-Übersichten. Sie büßten Klicks und Leserzahlen auf ihren Nachrichtenseiten ein, so der Vorwurf. Google missbrauche seine Marktmacht.
+  https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/verleger-aus-grossbritannien-legen-beschwerde-gegen-googles-ki-ein-110578694.html
+- Wer schreibt, verliert? Wie Künstliche Intelligenz auf Bücher zugreift (Faz.net, 2025-07-02) — Zwei Gerichtsurteile in Kalifornien geben Meta und Anthropic recht: Sie dürfen ihre Sprachmodelle weiterhin mit urheberrechtlich geschützten Texten trainieren – auch ohne Zustimmung der Autoren.
+  https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/wer-schreibt-verliert-wie-kuenstliche-intelligenz-auf-buecher-zugreift-110568376.html
+- Jede siebte Biomedizin-Studie mit KI geschrieben: Forscher warnen vor Risiken (Faz.net, 2025-07-10) — Die Künstliche Intelligenz droht die Wissenschaft erschüttern, warnen Forscher. Jede siebte Biomedizin-Studie entsteht inzwischen mithilfe von Sprachmodellen.
+  https://www.faz.net/aktuell/wissen/computer-mathematik/forscher-warnen-jede-siebte-biomedizin-studie-mit-ki-geschrieben-110579571.html
+- KI-Agenten: Mr. Bot, wir haben ein Problem (Die Zeit, 2025-07-13) — Künstliche Intelligenz soll uns Arbeit abnehmen. Aber sie scheitert an einfachen Aufgaben – und Menschen müssen ihre Fehler ausbügeln. Endet der Hype langsam?
+  https://www.zeit.de/digital/2025-07/ki-agenten-hype-arbeitsplatz-software-alltag
+- Künstliche Intelligenz: Bayern bewirbt sich in Brüssel um KI-Gigafabrik "Blue Swan" (Die Zeit, 2025-06-24) — Hier finden Sie Informationen zu dem Thema „Künstliche Intelligenz“. Lesen Sie jetzt „Bayern bewirbt sich in Brüssel um KI-Gigafabrik "Blue Swan"“.
+  https://www.zeit.de/news/2025-06/24/bayern-bewirbt-sich-in-bruessel-um-ki-gigafabrik-blue-swan
+- Künstliche Intelligenz: Deutliches Ost-West-Gefälle bei KI-Nutzung in Unternehmen (Die Zeit, 2025-07-20) — Hier finden Sie Informationen zu dem Thema „Künstliche Intelligenz“. Lesen Sie jetzt „Deutliches Ost-West-Gefälle bei KI-Nutzung in Unternehmen“.
+  https://www.zeit.de/news/2025-07/20/deutliches-ost-west-gefaelle-bei-ki-nutzung-in-unternehmen
+- Künstliche Intelligenz: 40 Prozent aller KI-Agenten bis 2027 wieder abgeschafft (Golem.de, 2025-07-01) — Viele KI-Agenten gehen nicht über die Funktionsweise von skriptbasierten Bots und virtuellen Assistenten hinaus. (KI, Gartner)
+  https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fkuenstliche-intelligenz-40-prozent-aller-ki-agenten-bis-2027-wieder-abgeschafft-2507-197621.html&referer=https%3A%2F%2Ft.co%2Fcf0b5658b5
+- So sorgt KI für die „Inbox Zero“ im Mailpostfach (Faz.net, 2025-07-02) — Künstliche Intelligenz kann den Traum der „Inbox Zero“ im Postfach verwirklichen. Neue Werkzeuge schleichen sich zunehmend in Outlook und andere Mailprogramme – und sparen Zeit.
+  https://www.faz.net/pro/digitalwirtschaft/gadgets/so-sorgt-ki-fuer-die-inbox-zero-im-mailpostfach-110568212.html
+- Bärs Masterplan für ein Hightech-Deutschland (Faz.net, 2025-07-15) — Künstliche Intelligenz wird als Treiber des Fortschritts gesehen. Bis 2030 sollen zehn Prozent der Wirtschaftsleistung auf KI-Basis entstehen, so das Forschungsministerium in seiner Hightech-Agenda.
+  https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ki-ausbau-baers-masterplan-fuer-ein-hightech-deutschland-110592138.html
+- „KI muss juristische Leistungen für drei Milliarden Euro kompensieren“ (Faz.net, 2025-07-16) — Künstliche Intelligenz ist die Chance, den demographischen Wandel im Rechtswesen abzufedern. Gleichzeitig wird die „Billable Hour“ teurer und der Wettbewerb intensiver.
+  https://www.faz.net/pro/digitalwirtschaft/zukunft-der-arbeit/ki-muss-juristische-leistungen-fuer-drei-milliarden-euro-kompensieren-110586205.html
+- Wie KI die Immobilienwirtschaft endlich digitalisieren soll (Faz.net, 2025-07-16) — Das Digitalpotential ist riesig, die Umsetzung stagniert aber seit Jahren. Nun soll Künstliche Intelligenz helfen, Anfragen der Mieter zu automatisieren, Routinetätigkeiten zu erledigen und Marktentwicklungen frühzeitig zu erkennen.
+  https://www.faz.net/pro/digitalwirtschaft/transformation/wie-ki-die-immobilienwirtschaft-endlich-digitalisieren-soll-110591720.html
+- Amazon "beschäftigt" über eine Million Roboter (heise online, 2025-07-01) — Bei Amazon arbeiten weltweit nun mehr als eine Million Roboter, die knapp 1,6 Millionen menschliche Beschäftigte unterstützen.
+  https://www.heise.de/news/Amazon-beschaeftigt-ueber-eine-Million-Roboter-10465621.html
+- Wie Deutschland im Rennen um Künstliche Intelligenz aufholen will (tagesschau.de, 2025-07-17) — Der KI-Boom treibt die Nachfrage nach Rechenzentren in die Höhe - doch Deutschland investiert zu langsam. Experten warnen vor einer Versorgungslücke und fordern klare Signale von Politik und Wirtschaft. Von Emal Atif.
+  https://www.tagesschau.de/wirtschaft/technologie/ki-rechenzentren-boom-deutschland-100.html
+- X: Künstliche Intelligenz soll im sozialen Netzwerk Community Notes beitragen (Caschys Blog, 2025-07-02) — Im sozialen Netzwerk X gibt es schon eine ganze Weile die sogenannten Community Notes. Das sind Notizen, welche an Beiträge sozusagen angehängt werden können, um den Inhalt zu ergänzen oder zu korrigieren. Dahinter steckt die Absicht, z. B. Fake News...Zum Be…
+  https://stadt-bremerhaven.de/x-kuenstliche-intelligenz-soll-im-sozialen-netzwerk-community-notes-beitragen/
+- Wie man die KI-Herkunft eines Textes verschleiert – oder entlarvt (Faz.net, 2025-07-09) — Zu den populärsten KI-Werkzeugen auf der Plattform ChatGPT gehört die Anwendung „Humanize AI“ – eine Künstliche Intelligenz zum Verschleiern der KI-Herkunft eines Textes. Umgekehrt kann KI den maschinellen Ursprung eines Textes entlarven – oder zumindest eine…
+  https://www.faz.net/pro/digitalwirtschaft/gadgets/wie-man-die-ki-herkunft-eines-textes-verschleiert-oder-entlarvt-110578317.html
+- Sieben Prompts für mehr Produktivität im Büro (Faz.net, 2025-07-19) — Trödelei und Muße sind Alltag in vielen Büros. Mit den richtigen Prompts kann Künstliche Intelligenz dabei helfen, effizient und produktiv zu arbeiten. Wie so oft ist das nur eine Frage der richtigen Ansprache.
+  https://www.faz.net/pro/digitalwirtschaft/prompt-der-woche/ki-tricks-sieben-prompts-fuer-mehr-produktivitaet-im-buero-110390324.html
+- Auf dem Weg zu medizinischer Superintelligenz: Microsoft stellt Forschung vor (heise online, 2025-06-30) — Laut Microsoft kann sein neues KI-System Patienten viermal genauer und auch kostengünstiger diagnostizieren als menschliche Ärzte.
+  https://www.heise.de/news/Auf-dem-Weg-zu-medizinischer-Superintelligenz-Microsoft-stellt-Forschung-vor-10465336.html
+- Wie KI-Browser die neuen Gatekeeper im Internet werden (Faz.net, 2025-07-16) — Im Internet tobt wieder ein Browser-Krieg. Den ersten Krieg hat Microsoft gewonnen, den zweiten Google. Doch die dritte Schlacht wird die wichtigste. Denn Künstliche Intelligenz macht aus dem guten alten Browser das Schweizer Messer des Internets.
+  https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/wie-ki-browser-die-neuen-gatekeeper-im-internet-werden-110586199.html
+- Hype um KI-Band Velvet Sundown: Die große KI-Frage im Musikstreaming (Faz.net, 2025-07-03) — Auf Streamingdiensten finden Nutzer unzählige mit Künstlicher Intelligenz erstellte Songs. Geld spielen sie wohl kaum ein. Noch – denn manche kommen schon auf erstaunliche Zahlen. Was tun?
+  https://www.faz.net/aktuell/wirtschaft/unternehmen/hype-um-ki-band-velvet-sundown-die-grosse-ki-frage-im-musikstreaming-110572644.html
+- heise+ | Warum Humanoide Roboter auf dem Arbeitsmarkt noch schwer vermittelbar sind (heise online, 2025-06-24) — Mechanische Zweibeiner bewegen sich zunehmend flüssig, sprechen, verstehen Befehle und erkennen Objekte. Aber sie müssen noch lernen, in der Welt klarzukommen.
+  https://www.heise.de/hintergrund/Warum-Humanoide-Roboter-auf-dem-Arbeitsmarkt-noch-schwer-vermittelbar-sind-10383450.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus
+- Polizei: Polizei bekommt eigene Hardware für sichere KI (Die Zeit, 2025-06-24) — Hier finden Sie Informationen zu dem Thema „Polizei“. Lesen Sie jetzt „Polizei bekommt eigene Hardware für sichere KI“.
+  https://www.zeit.de/news/2025-06/24/polizei-bekommt-eigene-hardware-fuer-sichere-ki
+- Technologie: Das Ende der Geschichten (Die Zeit, 2025-07-20) — Im Silicon Valley kursieren zwei sehr unterschiedliche Erzählungen über die Zukunft der Künstlichen Intelligenz. Beide dienen der Ablenkung von politischen Fragen.
+  https://www.zeit.de/kultur/2025-07/technologie-kuenstliche-intelligenz-sam-altman-geschichte-demokratie
+- AI Act: EU-Kommission hält an Zeitrahmen für KI-Verordnung fest (heise online, 2025-07-08) — Nachdem dutzende Konzernchefs einen Aufschub bei der Umsetzung des AI Act gefordert haben, hat die EU-Kommission nun klargestellt, dass es den nicht geben wird.
+  https://www.heise.de/news/AI-Act-EU-Kommission-haelt-an-Zeitrahmen-fuer-KI-Verordnung-fest-10478432.html
+- Bit-Rauschen, der Prozessor-Podcast: Kleine KI-Modelle für PC & Notebook (heise online, 2025-07-16) — KI boomt bisher in der Cloud – Datenschutz adé. Aber es kommen immer mehr kleine, lokale Modelle – was taugen die? Folge 2025/15 des Podcasts Bit-Rauschen.
+  https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Kleine-KI-Modelle-fuer-PC-Notebook-10464743.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+- heise+ | Msty vorgestellt: Große lokale LLMs komfortabel nutzen (heise online, 2025-07-17) — Wer Sprachmodelle lokal ausführen will, findet in Msty ein Frontend, das Benutzerfreundlichkeit, Sicherheit und flexible Vergleichsmöglichkeiten kombiniert.
+  https://www.heise.de/ratgeber/Msty-vorgestellt-Grosse-lokale-LLMs-komfortabel-nutzen-10473415.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus
+- Führungswechsel: US-Manager wird Chef von Sprachlern-App Babbel (Die Zeit, 2025-06-27) — Hier finden Sie Informationen zu dem Thema „Führungswechsel“. Lesen Sie jetzt „US-Manager wird Chef von Sprachlern-App Babbel“.
+  https://www.zeit.de/news/2025-06/27/us-manager-wird-chef-von-sprachlern-app-babbel
+- heise+ | CO₂-Bilanz von KI-Projekten ermitteln (heise online, 2025-07-07) — Um Energiebedarf und Emissionen des Betriebs generativer KI-Modelle bei Cloud-Dienstleistern zu ermitteln, gibt es Werkzeuge, die den CO₂-Fußabdruck schätzen.
+  https://www.heise.de/hintergrund/CO-Bilanz-von-KI-Projekten-ermitteln-10447914.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus
+- heise+ | Leuchtstarker OLED-Fernseher ohne Spiegelungen: Samsung QE65S95F im Test (heise online, 2025-07-14) — Samsung hat sein QD-OLED-Topmodell weiter verbessert und dem QE65S95F auch neue KI-Funktionen spendiert – reicht das, um sich gegen die Konkurrenz zu behaupten?
+  https://www.heise.de/tests/Leuchtstarker-OLED-Fernseher-ohne-Spiegelungen-Samsung-QE65S95F-im-Test-10422552.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus
+- heise+ | KI: Was der Einsatz von großen Sprachmodellen im Unternehmen kostet (heise online, 2025-06-30) — Ob Feintuning oder RAG-basierte Dokumentensuche: Wer Effizienzgewinne mit generativer KI realisieren will, sollte seinen Use Case genau planen. Ein Überblick.
+  https://www.heise.de/hintergrund/KI-Was-der-Einsatz-von-grossen-Sprachmodellen-im-Unternehmen-kostet-10441084.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus
+- heise-Angebot: Product Owner AI Day: Als Product Owner KI-Tools strategisch einsetzen (heise online, 2025-07-20) — Die Online-Konferenz für Product Owner findet am 6. November statt. Beim Workshop am nächsten Tag geht es um den praktischen Einsatz von KI-Tools.
+  https://www.heise.de/news/Product-Owner-AI-Day-Als-Product-Owner-KI-Tools-strategisch-einsetzen-10491105.html
+- Netflix: Milliardenerfolg dank Squid Game und teureren Abos (tagesschau.de, 2025-07-18) — Netflix ist nach wie vor der Platzhirsch beim Streaming. Bei den Abozahlen lässt sich der US-Konzern nicht mehr in die Karten schauen, aber er feiert einen Gewinnsprung. Und es soll stärker auf Künstliche Intelligenz gesetzt werden.
+  https://www.tagesschau.de/wirtschaft/unternehmen/netflix-squid-streaming-100.html
+- Dienstag: Microsofts neues KI-System, Forderung von Verbraucherschützern (heise online, 2025-07-01) — Microsoft präsentiert Forschung + Tariftransparenz bei Ladestationen + Apple blockiert Funktionen + DJI-Drohnen schwer zu bekommen + Bau von KI-Gigafabriken
+  https://www.heise.de/news/Dienstag-Microsofts-neues-KI-System-Forderung-von-Verbraucherschuetzern-10465448.html
+- Bayern und Wien bewerben sich als Standorte für EU-geförderte KI-Gigafabriken (heise online, 2025-06-26) — EU-Subventionen winken: Als Standorte für europäische KI-Gigafactories haben sich der Freistaat Bayern und die österreichische Hauptstadt ins Spiel gebracht.
+  https://www.heise.de/news/Bayern-und-Wien-bewerben-sich-als-Standorte-fuer-EU-gefoerderte-KI-Gigafabriken-10460084.html
+- Deutschlands Hightech-Agenda: KI soll 10 Prozent der Wirtschaftsleistung bringen (heise online, 2025-07-16) — Das Forschungsministerium hat laut einem Bericht den Entwurf für Deutschlands zentrale Technologie-Strategie vorgelegt. Die Ziele sind ambitioniert.
+  https://www.heise.de/news/Deutschlands-Hightech-Agenda-KI-soll-10-Prozent-der-Wirtschaftsleistung-bringen-10490139.html
+- Wie ein Kölner Gymnasium KI im Schulalltag nutzt (tagesschau.de, 2025-07-06) — Künstliche Intelligenz in Schulen? Das sorgt meist für hitzige Diskussionen zwischen Eltern und Lehrern. Ein Kölner Gymnasium setzt ganz bewusst auf KI, um den Lernstoff besser auf die Schüler abzustimmen. Von Jens Eberl.
+  https://www.tagesschau.de/inland/gesellschaft/ki-schule-100.html
+- "KI für Bürger": Mistral AI bezieht Stellung gegen Big Tech (heise online, 2025-07-06) — Der französische KI-Hersteller Mistral will KI bürgerfreundlicher machen und sieht gleichzeitig Probleme beim Ansatz großer Tech-Konzerne.
+  https://www.heise.de/news/KI-fuer-Buerger-Mistral-AI-bezieht-Stellung-gegen-Big-Tech-10476249.html
+- heise+ | Sechs Bildverwalter mit KI-Verschlagwortung im Vergleich (heise online, 2025-07-14) — KI kann helfen, Raw-Fotos und andere Bilder zu verschlagworten. Dafür muss man sie nicht US-Clouddiensten anvertrauen, einige Bildverwalter arbeiten auch lokal.
+  https://www.heise.de/tests/Sechs-Bildverwalter-mit-KI-Verschlagwortung-im-Vergleich-10461818.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus
+- Wie die KI-Band "Velvet Sundown" die Musikbranche aufmischt (heise online, 2025-07-20) — Die Songs einer bis vor kurzem völlig unbekannten Band klingen nach herkömmlichem Indie-Rock. Das Problem: Sie sollen nicht von menschlichen Urhebern stammen.
+  https://www.heise.de/news/Wie-die-KI-Band-Velvet-Sundown-die-Musikbranche-aufmischt-10493786.html
+- „Sicher, hier ist eine überarbeitete Version“: Wie ein Steam-Hit seine KI-Nutzung versehentlich verriet (T3n, 2025-07-06) — Steam-Spieler:innen sind in Aufruhr. Sie haben Hinweise entdeckt, dass die Entwickler:innen eines Sci-Fi-Games künstliche Intelligenz genutzt haben – ohne es auf der Spieleplattform auszuweisen. Künstliche Intelligenz ist auch im Gaming ein großes Thema. Entw…
+  https://t3n.de/news/sicher-ueberarbeitete-version-ki-1694915/
+- Rüstungsbranche: Mitgründer: Helsing plant aktuell keinen Börsengang (Die Zeit, 2025-07-10) — Hier finden Sie Informationen zu dem Thema „Rüstungsbranche“. Lesen Sie jetzt „Mitgründer: Helsing plant aktuell keinen Börsengang“.
+  https://www.zeit.de/news/2025-07/10/mitgruender-helsing-plant-aktuell-keinen-boersengang
+- Studie: Wie Künstliche Intelligenz nachhaltiger werden kann (Basicthinking.de, 2025-07-04) — Der Beitrag Studie: Wie Künstliche Intelligenz nachhaltiger werden kann erschien zuerst beim Online-Magazin BASIC thinking. Über unseren Newsletter UPDATE startest du jeden Morgen bestens informiert in den Tag.
+Künstliche Intelligenz ist ein enormer Energiefr…
+  https://www.basicthinking.de/blog/2025/07/04/studie-so-kann-kuenstliche-intelligenz-nachhaltiger-werden/
+- Wie KI die Routinejobs der Unternehmensjuristen erledigt (Faz.net, 2025-06-30) — Mehr als die Hälfte der Unternehmensjuristen experimentiert mit generativer KI. Doch nur 14 Prozent haben KI-Werkzeuge wirklich in ihre Workflows integriert. Vor allem deutsche Juristen bleiben vorsichtig.
+  https://www.faz.net/pro/digitalwirtschaft/zukunft-der-arbeit/wie-ki-die-routinejobs-der-unternehmensjuristen-erledigt-110552822.html
+- KI macht Menschen produktiver – aber der Teamgeist leidet (Faz.net, 2025-06-27) — Dank KI-Agenten werden Teams um 60 Prozent produktiver. Aber die soziale Interaktion schwindet. Über den Erfolg der Mensch-Maschine-Teams entscheidet die Persönlichkeit.
+  https://www.faz.net/pro/digitalwirtschaft/zukunft-der-arbeit/mit-studie-ki-macht-menschen-60-prozent-produktiver-aber-der-teamgeist-leidet-110554645.html
+- Neue Übernahme: TDK investiert in Smart-Glasses-Geschäft (heise online, 2025-06-23) — TDK übernimmt das kalifornische Start-up SoftEye, das wichtige Bausteine für KI-Brillen der nächsten Generation entwickelt.
+  https://www.heise.de/news/Neue-Uebernahme-TDK-investiert-in-Smart-Glasses-Geschaeft-10455747.html
+- #heiseshow: KI und Sprache, Prozessorfälschungen, Magnetschwebebahnen (heise online, 2025-06-26) — In der #heiseshow: KI verändert unseren Wortschatz, Schutz vor gefälschten Prozessoren und Chinas spektakuläre Magnetschwebebahn-Pläne.
+  https://www.heise.de/news/heiseshow-KI-und-Sprache-Prozessorfaelschungen-Magnetschwebebahnen-10459885.html
+- Windsurf-Übernahme durch OpenAI platzt, Chefs und Entwickler wechseln zu Google (heise online, 2025-07-12) — Nachdem ihr bisheriger Arbeitgeber Windsurf doch nicht von OpenAI übernommen wird, stoßen einige Beschäftigte nun zu Googles DeepMind-Team hinzu.
+  https://www.heise.de/news/Windsurf-Uebernahme-durch-OpenAI-platzt-Chefs-und-Entwickler-wechseln-zu-Google-10485062.html
+- heise+ | KI-Programmierassistent: Welche juristischen Fallstricke es bei Vibe Coding gibt (heise online, 2025-07-18) — Beim Vibe Coding erstellt generative KI Programme aus vagen Ahnungen der Anwender. Im Unternehmenseinsatz bedeutet das möglicherweise juristische Kopfschmerzen.
+  https://www.heise.de/hintergrund/KI-Programmierassistent-Welche-juristischen-Fallstricke-es-bei-Vibe-Coding-gibt-10469090.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus
+- heise-Angebot: Fundierte Videokurse – aus der IT für die IT (heise online, 2025-07-19) — Für IT-Professionals aus den Bereichen IT-Security, Data Science & KI sowie Softwareentwicklung hält die heise academy aktuell einen Videokurs kostenfrei vor.
+  https://www.heise.de/news/Fundierte-Videokurse-aus-der-IT-fuer-die-IT-10488411.html
+- Künstliche Intelligenz: Tech-Ideologien und der neue Faschismus (Netzpolitik.org, 2025-07-14) — Ein prominenter Vertreter der Ideologie des technologischen Determinismus: der OpenAI-Chef Sam Altman. – CC-BY 2.0 TechCrunch
+Was sind die ideologischen Ursprünge des neuen digitalen Faschismus? Was treibt den populären KI-Diskurs, was steht hinter der KI-Hy…
+  https://netzpolitik.org/2025/kuenstliche-intelligenz-tech-ideologien-und-der-neue-faschismus/
+- Galaxy Z Fold 7 und mehr: Samsung kündigt Unpacked-Event für 9. Juli an (heise online, 2025-06-24) — Samsung will Anfang Juli im Zuge eines Unpacked-Events neue Produkte vorstellen. Neben Foldables können Konsumenten auch mit Galaxy-Watches rechnen.
+  https://www.heise.de/news/Galaxy-Z-Fold-7-und-mehr-Samsung-kuendigt-Unpacked-Event-fuer-9-Juli-an-10457102.html
+- Virtual Reality im Studium: Uni Weimar stattet Erstsemester mit Meta Quest 3 aus (heise online, 2025-06-23) — Informatik-Erstsemester in Weimar bekommen zum Studienstart eine VR-Brille. Ziel ist mehr Praxisnähe im Umgang mit immersiven Technologien.
+  https://www.heise.de/news/Virtual-Reality-im-Studium-Uni-Weimar-stattet-Erstsemester-mit-Meta-Quest-3-aus-10456359.html
+- #heiseshow: Wikipedia-Kritik, KI statt Chef, Handy-Blitzer (heise online, 2025-07-10) — In der #heiseshow: Wikipedia steht wegen Fehlern in der Kritik, ein Drittel hält KI als Chef für möglich und Handy-Blitzer erwischen Mobilfunksünder.
+  https://www.heise.de/news/heiseshow-Wikipedia-Kritik-KI-statt-Chef-Handy-Blitzer-10481528.html
+- Netflix dank Werbeabo weiter auf Erfolgsweg (heise online, 2025-07-18) — Hinter Netflix liegt erneut ein erfolgreiches Quartal, was auch am fortgesetzten Erfolg des Werbeabos liegt. Künftig will der Streaming-Dienst mehr KI nutzen.
+  https://www.heise.de/news/Netflix-dank-Werbeabo-weiter-auf-Erfolgsweg-10492129.html
+- OpenAI übernimmt KI-Startup Windsurf, Chefs und Entwickler wechseln zu Google (heise online, 2025-07-12) — Nachdem ihr bisheriger Arbeitgeber Windsurf von OpenAI übernommen wird, stoßen einige Beschäftigte nun zu Googles DeepMind-Team hinzu.
+  https://www.heise.de/news/OpenAI-uebernimmt-KI-Startup-Windsurf-Chefs-und-Entwickler-wechseln-zu-Google-10485062.html
+- SpaceX soll zwei Milliarden US-Dollar in xAI investieren (heise online, 2025-07-13) — Fünf Milliarden will Elon Musks KI-Unternehmen in einer neuen Finanzierungsrunde aufnehmen, der größte Teil kommt von SpaceX.
+  https://www.heise.de/news/SpaceX-soll-zwei-Milliarden-US-Dollar-in-xAI-investieren-10485334.html
+- KI-Update kompakt: Microsoft vs OpenAI, Meta, kritische Infrastuktur, Sprache (heise online, 2025-06-27) — Das "KI-Update" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.
+  https://www.heise.de/news/KI-Update-kompakt-Microsoft-vs-OpenAI-Meta-kritische-Infrastuktur-Sprache-10462446.html
+- Gründerbranche: Rekord in Sicht: Zahl der neuen Start-ups steigt stark (Die Zeit, 2025-07-08) — Hier finden Sie Informationen zu dem Thema „Gründerbranche“. Lesen Sie jetzt „Rekord in Sicht: Zahl der neuen Start-ups steigt stark“.
+  https://www.zeit.de/news/2025-07/08/rekord-in-sicht-zahl-der-neuen-start-ups-steigt-stark
+- Roboter in Pflegeheimen: Es sieht wirklich aus, als würde er einem zuhören (Die Zeit, 2025-07-05) — In 34 Pflegeheimen helfen jetzt Roboter eines Start-ups aus. Dessen Gründer setzt auf ihre "sozialen Superkräfte". Können Disney-Augen menschliche Wärme herstellen?
+  https://www.zeit.de/2025/28/roboter-pflegeheime-kuenstliche-intelligenz-start-up-pfleger
+- 25 Prozent schneller: Wie KI die Softwareentwicklung revolutioniert (Faz.net, 2025-07-20) — Generative KI ist längst Teil des Arbeitsalltags in Entwicklerteams. Sechs von zehn Befragten berichten, mindestens 25 Prozent schneller zu arbeiten. Doch die wahren Effizienzgewinne erfordern mehr als nur neue Software.
+  https://www.faz.net/pro/digitalwirtschaft/zukunft-der-arbeit/25-prozent-schneller-wie-ki-die-softwareentwicklung-revolutioniert-110590076.html
+- ChatGPT: "Die neuronale Vernetzung im Gehirn wird mit jedem Tool schwächer" (Die Zeit, 2025-07-21) — Was passiert in unserem Gehirn, wenn wir ChatGPT benutzen? Das hat die MIT-Forscherin Nataliya Kos'myna untersucht. Ihr Rat ist: Erst denken, dann die KI fragen.
+  https://www.zeit.de/wissen/2025-07/chatgpt-ki-nutzung-gehirn-forschung-natalya-kosmyna
+- Selbst schuld? Diese Angestellten drohen den Anschluss zu verlieren (Nextpit.de, 2025-07-13) — Künstliche Intelligenz wird vor allem in wissensintensiven Berufsfeldern verwendet, Handwerker zeigen sich der KI gegenüber eher skeptisch.
+  https://www.nextpit.de/news/selbst-schuld-diese-angestellten-drohen-den-anschluss-zu-verlieren
+- Wegen KI-Boom: Nvidia kurzzeitig über vier Billionen Dollar wert (Faz.net, 2025-07-09) — Die anhaltende Nachfrage nach Chips für den Betrieb von Künstlicher Intelligenz hebt Nvidia kurz über den Wert von 4 Billionen Dollar. Wie wichtig das Geschäft ist, zeigt auch die vergleichbare Börsenschwäche von Apple.
+  https://www.faz.net/aktuell/finanzen/finanzmarkt/wegen-ki-boom-nvidia-kurzzeitig-ueber-vier-billionen-dollar-wert-110583318.html
+- API statt Abo – Das Tool Witsy ersetzt das Monatsabo für ChatGPT und Co. (Faz.net, 2025-07-16) — Mit der kostenlosen Software Witsy gelingt der Zugang zu verschiedenen KI-Diensten nun auch in einer Desktop-Anwendung für Windows, MacOS und Linux. Die monatlichen Pauschalgebühren für KI-Dienste werden so überflüssig.
+  https://www.faz.net/pro/digitalwirtschaft/prompt-der-woche/chatgpt-monatsabo-mit-kostenlosem-ki-assistenten-witsy-ersetzen-110586296.html
+- API statt Abo – Das Tool Witsy ersetzt das Monatsabo für ChatGPT und Co. (Faz.net, 2025-07-16) — Mit der kostenlosen Software Witsy gelingt der Zugang zu verschiedenen KI-Diensten nun auch in einer Desktop-Anwendung für Windows, MacOS und Linux. Die monatlichen Pauschalgebühren für KI-Dienste werden so überflüssig.
+  https://www.faz.net/pro/digitalwirtschaft/prompt-der-woche/chatgpt-monatsbo-mit-kostenlosem-ki-assistenten-witsy-ersetzen-110586296.html
+- KI treibt Digitalaktien auf Rekordhoch (Faz.net, 2025-07-01) — Nvidia ist wieder das wertvollste Unternehmen der Welt und Senkrechtstarter Coreweave legt auch im Juni kräftig zu. Die Digitalaktie des Monats kommt aber aus einer anderen Sparte: Quantum Computing.
+  https://www.faz.net/pro/digitalwirtschaft/transformation/ki-treibt-digitalaktien-auf-rekordhoch-110568184.html
+- API statt Abo – Das Tool Witsy ersetzt das Monatsabo für ChatGPT und Co. (Faz.net, 2025-07-16) — Mit der kostenlosen Software Witsy gelingt der Zugang zu verschiedenen KI-Diensten nun auch in einer Desktop-Anwendung für Windows, MacOS und Linux. Die monatlichen Pauschalgebühren für KI-Dienste werden so überflüssig.
+  https://www.faz.net/pro/digitalwirtschaft/prompt-der-woche/api-statt-abo-das-tool-witsy-ersetzt-das-monatsabo-fuer-chatgpt-und-co-110586296.html
+- Österreichs Regulierer: Keine digitale Souveränität ohne Infrastruktur (heise online, 2025-06-27) — IKT-Infrastruktur ist Grundlage digitaler Souveränität, sagt Österreichs Telecomregulator Steinmaurer im Exklusivgespräch. Er vermisst eine nationale Strategie.
+  https://www.heise.de/hintergrund/Oesterreichs-Regulierer-Keine-digitale-Souveraenitaet-ohne-Infrastruktur-10460256.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+- Chatbot für Schulen: Bremen macht den Anfang (heise online, 2025-06-26) — Der KI-Chatbot Telli soll später einmal Schulen bundesweit zur Verfügung stehen. Als erstes Bundesland geht jetzt Bremen an den Start.
+  https://www.heise.de/news/Chatbot-fuer-Schulen-Bremen-macht-den-Anfang-10461352.html
+- Festival in Köln: Phil.Cologne mit Daniel Kehlmann und Robert Habeck (Die Zeit, 2025-06-23) — Hier finden Sie Informationen zu dem Thema „Festival in Köln“. Lesen Sie jetzt „Phil.Cologne mit Daniel Kehlmann und Robert Habeck“.
+  https://www.zeit.de/news/2025-06/23/phil-cologne-mit-daniel-kehlmann-und-robert-habeck
+- Der deutsche KI-Gipfel 2025 – KI in der Praxis erleben (T3n, 2025-07-06) — Am 7. Juli 2025 bringt der deutsche KI-Gipfel in Stuttgart über 700 Entscheider:innen aus Wirtschaft, Tech und Politik zusammen. Das Ziel: Künstliche Intelligenz dort erlebbar machen, wo sie echten Wandel schafft: im Mittelstand. Von Macher:innen für Macher:i…
+  https://t3n.de/news/ki-gipfel-2025-ki-praxis-1694342/
+- Wer schrieb die Bibel? KI deckt Jahrtausende alte Geheimnisse auf (T3n, 2025-07-15) — Fundstück zwischen Künstlicher Intelligenz und Bibelanalyse: Mithilfe von KI haben Wissenschaftler eine Technik entwickelt, mit der sie verschiedene Bibelstellen bestimmten Autorengruppen oder Traditionslinien zuordnen können. Wer hat die Bibel verfasst? Über…
+  https://t3n.de/news/wer-schrieb-die-bibel-1692373/
+- Die 100 wertvollsten Firmen: USA dominieren die Börsen – Deutsche Firmen Außenseiter (Die Zeit, 2025-07-03) — Hier finden Sie Informationen zu dem Thema „Die 100 wertvollsten Firmen“. Lesen Sie jetzt „USA dominieren die Börsen – Deutsche Firmen Außenseiter“.
+  https://www.zeit.de/news/2025-07/03/usa-dominieren-die-boersen-deutsche-firmen-aussenseiter
+- MARTE: EU-Staaten bauen gemeinsam Kampfpanzer mit Hybrid-Antrieb (heise online, 2025-07-03) — Ein hochmoderner Kampfpanzer der EU und Norwegen soll die Kampfkraft stärken. Gemeinsam wollen die Staaten im Projekt MARTE einen solchen Panzer bauen.
+  https://www.heise.de/news/MARTE-EU-Staaten-bauen-gemeinsam-Kampfpanzer-mit-Hybrid-Antrieb-10473244.html
+- Facebook will an unveröffentlichte Bilder auf Smartphones (heise online, 2025-06-28) — Facebook fragte einige Nutzer nach der Erlaubnis, Bilder auf ihrem Smartphone automatisch in eine Cloud zu laden – möglicherweise zwecks KI-Training.
+  https://www.heise.de/news/Facebook-will-an-unveroeffentlichte-Bilder-auf-Smartphones-10463390.html
