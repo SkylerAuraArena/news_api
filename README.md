@@ -443,5 +443,5 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 **Version** : 1.0.0  
 **Dernière mise à jour** : Juillet 2025  
-**Auteur** : [Votre nom]  
+**Auteur** : SkylerAuraArena  
 **Statut** : Production Ready ✅
