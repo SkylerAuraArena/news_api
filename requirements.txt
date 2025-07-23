@@ -1,0 +1,38 @@
+# Dépendances pour l'Analyseur de Sentiment d'Actualités Multilingue
+# Installation : pip install -r requirements.txt
+
+# === Core Dependencies ===
+requests>=2.25.0                    # Requêtes HTTP pour NewsAPI
+python-dotenv>=0.19.0               # Gestion des variables d'environnement (.env)
+
+# === NLP et Machine Learning ===
+transformers>=4.20.0                # Modèles de NLP (sentiment + traduction)
+torch>=1.12.0                       # Framework PyTorch pour l'inférence
+tokenizers>=0.13.0                  # Tokenisation rapide (dépendance de transformers)
+
+# === Utilitaires ===
+tqdm>=4.60.0                        # Barres de progression pour le traitement en lot
+numpy>=1.21.0                       # Calculs numériques (dépendance indirecte)
+
+# === Optionnel : Visualisation (non utilisé dans le projet actuel) ===
+# matplotlib>=3.5.0                 # Graphiques et visualisations
+# seaborn>=0.11.0                   # Graphiques statistiques
+# plotly>=5.0.0                     # Graphiques interactifs
+
+# === Optionnel : Analyse avancée ===
+# pandas>=1.4.0                     # Manipulation de données structurées
+# scikit-learn>=1.1.0               # Métriques d'évaluation ML
+# nltk>=3.7                         # Outils de traitement de texte supplémentaires
+
+# === Notes d'installation ===
+# 
+# Installation rapide :
+#   pip install requests python-dotenv transformers torch tqdm
+#
+# Installation complète avec options :
+#   pip install -r requirements.txt
+#
+# Pour un environnement minimal (sans GPU) :
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+#
+# Taille totale approximative : ~3-5 GB (incluant les modèles pré-entraînés)

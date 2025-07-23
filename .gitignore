@@ -1,0 +1,341 @@
+# ================================================================
+# .gitignore pour News Sentiment Analyzer
+# ================================================================
+
+# === SÉCURITÉ ET CONFIGURATION ===
+# Variables d'environnement (clés API, secrets)
+.env
+.env.local
+.env.production
+.env.staging
+*.key
+secrets.json
+
+# Fichiers de configuration sensibles
+config_prod.py
+config_local.py
+
+# === PYTHON ===
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django (si extension future)
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask (si extension future)
+instance/
+.webassets-cache
+
+# Scrapy (si extension future)
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Pyenv
+.python-version
+
+# Pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# === MACHINE LEARNING / NLP ===
+# Modèles téléchargés (Transformers cache)
+transformers_cache/
+.cache/huggingface/
+.cache/torch/
+models/
+*.bin
+*.safetensors
+
+# Cache PyTorch
+.torch/
+
+# Cache TensorFlow (si utilisé)
+.tensorflow/
+
+# Datasets volumineux
+datasets/
+data/raw/
+data/processed/
+*.h5
+*.hdf5
+
+# Modèles entraînés localement
+trained_models/
+checkpoints/
+*.pt
+*.pth
+*.pkl
+*.pickle
+
+# === DONNÉES DU PROJET ===
+# Fichiers de résultats (peuvent être volumineux)
+resultats_news_*.txt
+corpus_concatene.txt
+resultats_sentiments_*.json
+
+# Sauvegardes et exports
+backup/
+exports/
+archives/
+*.zip
+*.tar.gz
+
+# Logs d'exécution
+logs/
+*.log
+debug.txt
+error.txt
+
+# Fichiers temporaires du projet
+temp/
+tmp/
+cache/
+.temp/
+
+# Données de test volumineux
+test_data/
+sample_data/
+
+# === SYSTÈME D'EXPLOITATION ===
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.tmp
+*.temp
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# === ÉDITEURS / IDES ===
+# VSCode
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+.history/
+*.vsix
+
+# PyCharm
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+# Vim
+*.swp
+*.swo
+*~
+.vimrc.local
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# === DOCUMENTATION ===
+# Documentation générée automatiquement
+docs/build/
+docs/_build/
+site/
+
+# === DIVERS ===
+# Fichiers de verrouillage
+*.lock
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+*.old
+
+# Fichiers compressés
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# === EXCEPTIONS (fichiers à GARDER) ===
+# Garder les exemples de configuration
+!.env.example
+!config.example.py
+
+# Garder un échantillon de données pour les tests
+!sample_data.json
+!test_sample.txt
+
+# Garder les notebooks d'exemple (si ajoutés)
+!examples/*.ipynb
+
+# === NOTES POUR LES DÉVELOPPEURS ===
+# Ce .gitignore exclut :
+# ✅ Les clés API et secrets (.env)
+# ✅ Les modèles ML volumineux (cache Transformers)
+# ✅ Les fichiers de résultats (peuvent être gros)
+# ✅ Les caches Python et système
+# ✅ Les fichiers temporaires et logs
+#
+# Il préserve :
+# ✅ Le code source principal
+# ✅ Les fichiers d'exemple et configuration
+# ✅ La documentation
+# ✅ Les tests unitaires
+#
+# Pour forcer l'ajout d'un fichier ignoré :
+# git add -f nom_du_fichier
